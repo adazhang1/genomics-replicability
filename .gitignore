@@ -6,7 +6,6 @@
 *.pickle
 *.fa
 *.gtf
-*.csv
 
 # Jupyter checkpoints
 **/.ipynb_checkpoints/
