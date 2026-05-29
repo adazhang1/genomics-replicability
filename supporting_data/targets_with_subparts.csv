@@ -1,0 +1,639 @@
+﻿index,genome,identifier,file,clip,scale,sum_stat,description,Tissue,Cancer
+4675,0,CNhs10608,/home/drk/tillage/datasets/human/cage/fantom/CNhs10608/summary/coverage.w5,384,1,sum,"Clontech Human Universal Reference Total RNA, pool1",NA,No
+4676,0,CNhs10610,/home/drk/tillage/datasets/human/cage/fantom/CNhs10610/summary/coverage.w5,384,1,sum,"SABiosciences XpressRef Human Universal Total RNA, pool1",NA,No
+4677,0,CNhs10612,/home/drk/tillage/datasets/human/cage/fantom/CNhs10612/summary/coverage.w5,384,1,sum,"Universal RNA - Human Normal Tissues Biochain, pool1",NA,No
+4678,0,CNhs10615,/home/drk/tillage/datasets/human/cage/fantom/CNhs10615/summary/coverage.w5,384,1,sum,"adipose tissue, adult, pool1",adipose,No
+4679,0,CNhs10616,/home/drk/tillage/datasets/human/cage/fantom/CNhs10616/summary/coverage.w5,384,1,sum,"bladder, adult, pool1",bladder,No
+4680,0,CNhs10617,/home/drk/tillage/datasets/human/cage/fantom/CNhs10617/summary/coverage.w5,384,1,sum,"brain, adult, pool1",brain,No
+4681,0,CNhs10618,/home/drk/tillage/datasets/human/cage/fantom/CNhs10618/summary/coverage.w5,384,1,sum,"cervix, adult, pool1",cervix,No
+4682,0,CNhs10619,/home/drk/tillage/datasets/human/cage/fantom/CNhs10619/summary/coverage.w5,384,1,sum,"colon, adult, pool1",intestine,No
+4683,0,CNhs10620,/home/drk/tillage/datasets/human/cage/fantom/CNhs10620/summary/coverage.w5,384,1,sum,"esophagus, adult, pool1",esophagus,No
+4684,0,CNhs10621,/home/drk/tillage/datasets/human/cage/fantom/CNhs10621/summary/coverage.w5,384,1,sum,"heart, adult, pool1",heart,No
+4685,0,CNhs10622,/home/drk/tillage/datasets/human/cage/fantom/CNhs10622/summary/coverage.w5,384,1,sum,"kidney, adult, pool1",kidney,No
+4686,0,CNhs10624,/home/drk/tillage/datasets/human/cage/fantom/CNhs10624/summary/coverage.w5,384,1,sum,"liver, adult, pool1",liver,No
+4687,0,CNhs10625,/home/drk/tillage/datasets/human/cage/fantom/CNhs10625/summary/coverage.w5,384,1,sum,"lung, adult, pool1",lung,No
+4688,0,CNhs10626,/home/drk/tillage/datasets/human/cage/fantom/CNhs10626/summary/coverage.w5,384,1,sum,"ovary, adult, pool1",ovary,No
+4689,0,CNhs10627,/home/drk/tillage/datasets/human/cage/fantom/CNhs10627/summary/coverage.w5,384,1,sum,"placenta, adult, pool1",placenta,No
+4690,0,CNhs10628,/home/drk/tillage/datasets/human/cage/fantom/CNhs10628/summary/coverage.w5,384,1,sum,"prostate, adult, pool1",prostate,No
+4691,0,CNhs10629,/home/drk/tillage/datasets/human/cage/fantom/CNhs10629/summary/coverage.w5,384,1,sum,"skeletal muscle, adult, pool1",muscle,No
+4692,0,CNhs10630,/home/drk/tillage/datasets/human/cage/fantom/CNhs10630/summary/coverage.w5,384,1,sum,"small intestine, adult, pool1",intestine,No
+4693,0,CNhs10631,/home/drk/tillage/datasets/human/cage/fantom/CNhs10631/summary/coverage.w5,384,1,sum,"spleen, adult, pool1",spleen,No
+4694,0,CNhs10632,/home/drk/tillage/datasets/human/cage/fantom/CNhs10632/summary/coverage.w5,384,1,sum,"testis, adult, pool1",male rep.,No
+4695,0,CNhs10633,/home/drk/tillage/datasets/human/cage/fantom/CNhs10633/summary/coverage.w5,384,1,sum,"thymus, adult, pool1",thymus,No
+4696,0,CNhs10634,/home/drk/tillage/datasets/human/cage/fantom/CNhs10634/summary/coverage.w5,384,1,sum,"thyroid, adult, pool1",thyroid,No
+4697,0,CNhs10635,/home/drk/tillage/datasets/human/cage/fantom/CNhs10635/summary/coverage.w5,384,1,sum,"trachea, adult, pool1",lung,No
+4698,0,CNhs10636,/home/drk/tillage/datasets/human/cage/fantom/CNhs10636/summary/coverage.w5,384,1,sum,"retina, adult, pool1",eye,No
+4699,0,CNhs10637,/home/drk/tillage/datasets/human/cage/fantom/CNhs10637/summary/coverage.w5,384,1,sum,"temporal lobe, adult, pool1",brain,No
+4700,0,CNhs10638,/home/drk/tillage/datasets/human/cage/fantom/CNhs10638/summary/coverage.w5,384,1,sum,"postcentral gyrus, adult, pool1",brain,No
+4701,0,CNhs10640,/home/drk/tillage/datasets/human/cage/fantom/CNhs10640/summary/coverage.w5,384,1,sum,"pons, adult, pool1",brain,No
+4702,0,CNhs10641,/home/drk/tillage/datasets/human/cage/fantom/CNhs10641/summary/coverage.w5,384,1,sum,"parietal lobe, adult, pool1",brain,No
+4703,0,CNhs10642,/home/drk/tillage/datasets/human/cage/fantom/CNhs10642/summary/coverage.w5,384,1,sum,"paracentral gyrus, adult, pool1",brain,No
+4704,0,CNhs10643,/home/drk/tillage/datasets/human/cage/fantom/CNhs10643/summary/coverage.w5,384,1,sum,"occipital pole, adult, pool1",brain,No
+4705,0,CNhs10644,/home/drk/tillage/datasets/human/cage/fantom/CNhs10644/summary/coverage.w5,384,1,sum,"nucleus accumbens, adult, pool1",brain,No
+4706,0,CNhs10645,/home/drk/tillage/datasets/human/cage/fantom/CNhs10645/summary/coverage.w5,384,1,sum,"medulla oblongata, adult, pool1",brain,No
+4707,0,CNhs10646,/home/drk/tillage/datasets/human/cage/fantom/CNhs10646/summary/coverage.w5,384,1,sum,"insula, adult, pool1",brain,No
+4708,0,CNhs10647,/home/drk/tillage/datasets/human/cage/fantom/CNhs10647/summary/coverage.w5,384,1,sum,"frontal lobe, adult, pool1",brain,No
+4709,0,CNhs10648,/home/drk/tillage/datasets/human/cage/fantom/CNhs10648/summary/coverage.w5,384,1,sum,"dura mater, adult,",brain,No
+4710,0,CNhs10649,/home/drk/tillage/datasets/human/cage/fantom/CNhs10649/summary/coverage.w5,384,1,sum,"corpus callosum, adult, pool1",brain,No
+4711,0,CNhs10650,/home/drk/tillage/datasets/human/cage/fantom/CNhs10650/summary/coverage.w5,384,1,sum,"thymus, fetal, pool1",thymus,No
+4712,0,CNhs10651,/home/drk/tillage/datasets/human/cage/fantom/CNhs10651/summary/coverage.w5,384,1,sum,"spleen, fetal, pool1",spleen,No
+4713,0,CNhs10652,/home/drk/tillage/datasets/human/cage/fantom/CNhs10652/summary/coverage.w5,384,1,sum,"kidney, fetal, pool1",kidney,No
+4714,0,CNhs10653,/home/drk/tillage/datasets/human/cage/fantom/CNhs10653/summary/coverage.w5,384,1,sum,"heart, fetal, pool1",heart,No
+4715,0,CNhs10654,/home/drk/tillage/datasets/human/cage/fantom/CNhs10654/summary/coverage.w5,384,1,sum,"tonsil, adult, pool1",lymph,No
+4716,0,CNhs10722,/home/drk/tillage/datasets/human/cage/fantom/CNhs10722/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M5) cell line:THP-1 (fresh),immune cell,Yes
+4717,0,CNhs10723,/home/drk/tillage/datasets/human/cage/fantom/CNhs10723/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M5) cell line:THP-1 (revived),immune cell,Yes
+4718,0,CNhs10724,/home/drk/tillage/datasets/human/cage/fantom/CNhs10724/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M5) cell line:THP-1 (thawed),immune cell,Yes
+4719,0,CNhs10726,/home/drk/tillage/datasets/human/cage/fantom/CNhs10726/summary/coverage.w5,384,1,sum,lung adenocarcinoma cell line:PC-14,lung,Yes
+4720,0,CNhs10727,/home/drk/tillage/datasets/human/cage/fantom/CNhs10727/summary/coverage.w5,384,1,sum,chronic myelogenous leukemia cell line:KU812,bone,Yes
+4721,0,CNhs10728,/home/drk/tillage/datasets/human/cage/fantom/CNhs10728/summary/coverage.w5,384,1,sum,extraskeletal myxoid chondrosarcoma cell line:H-EMC-SS,NA,Yes
+4722,0,CNhs10729,/home/drk/tillage/datasets/human/cage/fantom/CNhs10729/summary/coverage.w5,384,1,sum,renal cell carcinoma cell line:OS-RC-2,kidney,Yes
+4723,0,CNhs10730,/home/drk/tillage/datasets/human/cage/fantom/CNhs10730/summary/coverage.w5,384,1,sum,malignant trichilemmal cyst cell line:DJM-1,NA,Yes
+4724,0,CNhs10731,/home/drk/tillage/datasets/human/cage/fantom/CNhs10731/summary/coverage.w5,384,1,sum,glioma cell line:GI-1,brain,Yes
+4725,0,CNhs10732,/home/drk/tillage/datasets/human/cage/fantom/CNhs10732/summary/coverage.w5,384,1,sum,maxillary sinus tumor cell line:HSQ-89,pharynx,Yes
+4726,0,CNhs10733,/home/drk/tillage/datasets/human/cage/fantom/CNhs10733/summary/coverage.w5,384,1,sum,gall bladder carcinoma cell line:TGBC2TKB,bladder,Yes
+4727,0,CNhs10734,/home/drk/tillage/datasets/human/cage/fantom/CNhs10734/summary/coverage.w5,384,1,sum,papillotubular adenocarcinoma cell line:TGBC18TKB,lung,Yes
+4728,0,CNhs10735,/home/drk/tillage/datasets/human/cage/fantom/CNhs10735/summary/coverage.w5,384,1,sum,transitional-cell carcinoma cell line:5637,NA,Yes
+4729,0,CNhs10736,/home/drk/tillage/datasets/human/cage/fantom/CNhs10736/summary/coverage.w5,384,1,sum,breast carcinoma cell line:MDA-MB-453,breast,Yes
+4730,0,CNhs10737,/home/drk/tillage/datasets/human/cage/fantom/CNhs10737/summary/coverage.w5,384,1,sum,colon carcinoma cell line:COLO-320,intestine,Yes
+4731,0,CNhs10738,/home/drk/tillage/datasets/human/cage/fantom/CNhs10738/summary/coverage.w5,384,1,sum,adult T-cell leukemia cell line:ATN-1,immune cell,Yes
+4732,0,CNhs10739,/home/drk/tillage/datasets/human/cage/fantom/CNhs10739/summary/coverage.w5,384,1,sum,Burkitt's lymphoma cell line:DAUDI,lymph,Yes
+4733,0,CNhs10740,/home/drk/tillage/datasets/human/cage/fantom/CNhs10740/summary/coverage.w5,384,1,sum,choriocarcinoma cell line:BeWo,bone,Yes
+4734,0,CNhs10741,/home/drk/tillage/datasets/human/cage/fantom/CNhs10741/summary/coverage.w5,384,1,sum,splenic lymphoma with villous lymphocytes cell line:SLVL,spleen,Yes
+4735,0,CNhs10742,/home/drk/tillage/datasets/human/cage/fantom/CNhs10742/summary/coverage.w5,384,1,sum,astrocytoma cell line:TM-31,brain,Yes
+4736,0,CNhs10743,/home/drk/tillage/datasets/human/cage/fantom/CNhs10743/summary/coverage.w5,384,1,sum,epidermoid carcinoma cell line:A431,NA,Yes
+4737,0,CNhs10744,/home/drk/tillage/datasets/human/cage/fantom/CNhs10744/summary/coverage.w5,384,1,sum,b cell line:RPMI1788,immune cell,Yes
+4738,0,CNhs10745,/home/drk/tillage/datasets/human/cage/fantom/CNhs10745/summary/coverage.w5,384,1,sum,anaplastic carcinoma cell line:8305C,NA,Yes
+4739,0,CNhs10746,/home/drk/tillage/datasets/human/cage/fantom/CNhs10746/summary/coverage.w5,384,1,sum,acute lymphoblastic leukemia (T-ALL) cell line:HPB-ALL,immune cell,Yes
+4740,0,CNhs10747,/home/drk/tillage/datasets/human/cage/fantom/CNhs10747/summary/coverage.w5,384,1,sum,non T non B acute lymphoblastic leukemia (ALL) cell line:P30/OHK,immune cell,Yes
+4741,0,CNhs10748,/home/drk/tillage/datasets/human/cage/fantom/CNhs10748/summary/coverage.w5,384,1,sum,epidermoid carcinoma cell line:Ca Ski,NA,Yes
+4742,0,CNhs10750,/home/drk/tillage/datasets/human/cage/fantom/CNhs10750/summary/coverage.w5,384,1,sum,bile duct carcinoma cell line:HuCCT1,liver,Yes
+4743,0,CNhs10751,/home/drk/tillage/datasets/human/cage/fantom/CNhs10751/summary/coverage.w5,384,1,sum,giant cell carcinoma cell line:Lu99B,NA,Yes
+4744,0,CNhs10752,/home/drk/tillage/datasets/human/cage/fantom/CNhs10752/summary/coverage.w5,384,1,sum,oral squamous cell carcinoma cell line:Ca9-22,pharynx,Yes
+4745,0,CNhs10753,/home/drk/tillage/datasets/human/cage/fantom/CNhs10753/summary/coverage.w5,384,1,sum,signet ring carcinoma cell line:Kato III,NA,Yes
+4746,0,CNhs10837,/home/drk/tillage/datasets/human/cage/fantom/CNhs10837/summary/coverage.w5,384,1,sum,"Endothelial Cells - Aortic,",endothelium,No
+4747,0,CNhs11309,/home/drk/tillage/datasets/human/cage/fantom/CNhs10838/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Aortic,",muscle,No
+4748,0,CNhs10839,/home/drk/tillage/datasets/human/cage/fantom/CNhs10839/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Umbilical artery,",umbilical,No
+4749,0,CNhs10842,/home/drk/tillage/datasets/human/cage/fantom/CNhs10842/summary/coverage.w5,384,1,sum,"Retinal Pigment Epithelial Cells,",eye,No
+4750,0,CNhs10843,/home/drk/tillage/datasets/human/cage/fantom/CNhs10843/summary/coverage.w5,384,1,sum,"Urothelial cells,",kidney,No
+4751,0,CNhs10844,/home/drk/tillage/datasets/human/cage/fantom/CNhs10844/summary/coverage.w5,384,1,sum,"Mesenchymal stem cells - adipose,",adipose,No
+4752,0,CNhs10845,/home/drk/tillage/datasets/human/cage/fantom/CNhs10845/summary/coverage.w5,384,1,sum,"Mesenchymal stem cells - hepatic,",liver,No
+4753,0,CNhs10846,/home/drk/tillage/datasets/human/cage/fantom/CNhs10846/summary/coverage.w5,384,1,sum,"Mesenchymal Stem Cells - Vertebral,",bone,No
+4754,0,CNhs11951,/home/drk/tillage/datasets/human/cage/fantom/CNhs10847/summary/coverage.w5,384,1,sum,"Sebocyte,",skin,No
+4755,0,CNhs10848,/home/drk/tillage/datasets/human/cage/fantom/CNhs10848/summary/coverage.w5,384,1,sum,"Fibroblast - Gingival,  (GFH2)",connective tissue,No
+4756,0,CNhs12012,/home/drk/tillage/datasets/human/cage/fantom/CNhs10850/summary/coverage.w5,384,1,sum,"Mesothelial Cells,",NA,No
+4757,0,CNhs11974,/home/drk/tillage/datasets/human/cage/fantom/CNhs10851/summary/coverage.w5,384,1,sum,"Sertoli Cells,",male rep.,No
+4758,0,CNhs10852,/home/drk/tillage/datasets/human/cage/fantom/CNhs10852/summary/coverage.w5,384,1,sum,"CD14+ Monocytes,",immune cell,No
+4759,0,CNhs11955,/home/drk/tillage/datasets/human/cage/fantom/CNhs10853/summary/coverage.w5,384,1,sum,"CD4+ T Cells,",immune cell,No
+4760,0,CNhs11956,/home/drk/tillage/datasets/human/cage/fantom/CNhs10854/summary/coverage.w5,384,1,sum,"CD8+ T Cells,",immune cell,No
+4761,0,CNhs11062,/home/drk/tillage/datasets/human/cage/fantom/CNhs10855/summary/coverage.w5,384,1,sum,"Dendritic Cells - monocyte immature derived, , tech_",immune cell,No
+4762,0,CNhs12196,/home/drk/tillage/datasets/human/cage/fantom/CNhs10857/summary/coverage.w5,384,1,sum,"Dendritic Cells - plasmacytoid,",immune cell,No
+4763,0,CNhs11904,/home/drk/tillage/datasets/human/cage/fantom/CNhs10858/summary/coverage.w5,384,1,sum,"CD14+ monocyte derived endothelial progenitor cells,",immune cell,No
+4764,0,CNhs11957,/home/drk/tillage/datasets/human/cage/fantom/CNhs10859/summary/coverage.w5,384,1,sum,"Natural Killer Cells,",immune cell,No
+4765,0,CNhs11958,/home/drk/tillage/datasets/human/cage/fantom/CNhs10860/summary/coverage.w5,384,1,sum,"Peripheral Blood Mononuclear Cells,",immune cell,No
+4766,0,CNhs12003,/home/drk/tillage/datasets/human/cage/fantom/CNhs10861/summary/coverage.w5,384,1,sum,"Macrophage - monocyte derived,",immune cell,No
+4767,0,CNhs10862,/home/drk/tillage/datasets/human/cage/fantom/CNhs10862/summary/coverage.w5,384,1,sum,"Neutrophils,",immune cell,No
+4768,0,CNhs11900,/home/drk/tillage/datasets/human/cage/fantom/CNhs10863/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Brain Vascular,",muscle,No
+4769,0,CNhs12005,/home/drk/tillage/datasets/human/cage/fantom/CNhs10864/summary/coverage.w5,384,1,sum,"Astrocyte - cerebral cortex,",brain,No
+4770,0,CNhs11906,/home/drk/tillage/datasets/human/cage/fantom/CNhs10865/summary/coverage.w5,384,1,sum,"Endothelial Cells - Lymphatic,",endothelium,No
+4771,0,CNhs12006,/home/drk/tillage/datasets/human/cage/fantom/CNhs10866/summary/coverage.w5,384,1,sum,"Fibroblast - Gingival,",connective tissue,No
+4772,0,CNhs11962,/home/drk/tillage/datasets/human/cage/fantom/CNhs10867/summary/coverage.w5,384,1,sum,"Fibroblast - Periodontal Ligament,",connective tissue,No
+4773,0,CNhs10868,/home/drk/tillage/datasets/human/cage/fantom/CNhs10868/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Colonic,",muscle,No
+4774,0,CNhs12008,/home/drk/tillage/datasets/human/cage/fantom/CNhs10869/summary/coverage.w5,384,1,sum,"Skeletal Muscle Satellite Cells,",muscle,No
+4775,0,CNhs10870,/home/drk/tillage/datasets/human/cage/fantom/CNhs10870/summary/coverage.w5,384,1,sum,"Myoblast,",muscle,No
+4776,0,CNhs11966,/home/drk/tillage/datasets/human/cage/fantom/CNhs10871/summary/coverage.w5,384,1,sum,"Ciliary Epithelial Cells,",epithelium,No
+4777,0,CNhs12010,/home/drk/tillage/datasets/human/cage/fantom/CNhs10872/summary/coverage.w5,384,1,sum,"Endothelial Cells - Umbilical vein,",endothelium,No
+4778,0,CNhs11968,/home/drk/tillage/datasets/human/cage/fantom/CNhs10874/summary/coverage.w5,384,1,sum,"Fibroblast - Aortic Adventitial,",skin,No
+4779,0,CNhs10875,/home/drk/tillage/datasets/human/cage/fantom/CNhs10875/summary/coverage.w5,384,1,sum,"Intestinal epithelial cells (polarized),",intestine,No
+4780,0,CNhs10876,/home/drk/tillage/datasets/human/cage/fantom/CNhs10876/summary/coverage.w5,384,1,sum,"Anulus Pulposus Cell,",connective tissue,No
+4781,0,CNhs10877,/home/drk/tillage/datasets/human/cage/fantom/CNhs10877/summary/coverage.w5,384,1,sum,"Pancreatic stromal cells,",pancreas,No
+4782,0,CNhs10878,/home/drk/tillage/datasets/human/cage/fantom/CNhs10878/summary/coverage.w5,384,1,sum,"Fibroblast - Pulmonary Artery,",blood vessel,No
+4783,0,CNhs10879,/home/drk/tillage/datasets/human/cage/fantom/CNhs10879/summary/coverage.w5,384,1,sum,"Keratinocyte - oral,",skin,No
+4784,0,CNhs12019,/home/drk/tillage/datasets/human/cage/fantom/CNhs10881/summary/coverage.w5,384,1,sum,"Nucleus Pulposus Cell,",NA,No
+4785,0,CNhs10882,/home/drk/tillage/datasets/human/cage/fantom/CNhs10882/summary/coverage.w5,384,1,sum,"Prostate Epithelial Cells (polarized),",prostate,No
+4786,0,CNhs10883,/home/drk/tillage/datasets/human/cage/fantom/CNhs10883/summary/coverage.w5,384,1,sum,"Prostate Stromal Cells,",prostate,No
+4787,0,CNhs10884,/home/drk/tillage/datasets/human/cage/fantom/CNhs10884/summary/coverage.w5,384,1,sum,"Small Airway Epithelial Cells,",lung,No
+4788,0,CNhs11045,/home/drk/tillage/datasets/human/cage/fantom/CNhs11045/summary/coverage.w5,384,1,sum,cord blood derived cell line:COBL-a untreated,blood,Yes
+4789,0,CNhs11046,/home/drk/tillage/datasets/human/cage/fantom/CNhs11046/summary/coverage.w5,384,1,sum,embryonic kidney cell line: HEK293/SLAM untreated,kidney,Yes
+4790,0,CNhs11047,/home/drk/tillage/datasets/human/cage/fantom/CNhs11047/summary/coverage.w5,384,1,sum,"embryonic kidney cell line: HEK293/SLAM infection, 24hr",kidney,Yes
+4791,0,CNhs11049,/home/drk/tillage/datasets/human/cage/fantom/CNhs11049/summary/coverage.w5,384,1,sum,cord blood derived cell line:COBL-a 24h infection(-C),blood,Yes
+4792,0,CNhs11050,/home/drk/tillage/datasets/human/cage/fantom/CNhs11050/summary/coverage.w5,384,1,sum,cord blood derived cell line:COBL-a 24h infection,blood,Yes
+4793,0,CNhs11969,/home/drk/tillage/datasets/human/cage/fantom/CNhs11051/summary/coverage.w5,384,1,sum,"Adipocyte - breast,",adipose,No
+4794,0,CNhs11052,/home/drk/tillage/datasets/human/cage/fantom/CNhs11052/summary/coverage.w5,384,1,sum,"Preadipocyte - breast,",adipose,No
+4795,0,CNhs11054,/home/drk/tillage/datasets/human/cage/fantom/CNhs11054/summary/coverage.w5,384,1,sum,"Adipocyte - omental,",adipose,No
+4796,0,CNhs11057,/home/drk/tillage/datasets/human/cage/fantom/CNhs11057/summary/coverage.w5,384,1,sum,"Mesenchymal Stem Cells - Wharton's Jelly,",umbilical,No
+4797,0,CNhs11061,/home/drk/tillage/datasets/human/cage/fantom/CNhs11061/summary/coverage.w5,384,1,sum,"Gingival epithelial cells,  (GEA11)",epithelium,No
+4798,0,CNhs11384,/home/drk/tillage/datasets/human/cage/fantom/CNhs11063/summary/coverage.w5,384,1,sum,"Neural stem cells,",NA,No
+4799,0,CNhs11381,/home/drk/tillage/datasets/human/cage/fantom/CNhs11064/summary/coverage.w5,384,1,sum,"Keratinocyte - epidermal,",skin,No
+4800,0,CNhs12013,/home/drk/tillage/datasets/human/cage/fantom/CNhs11065/summary/coverage.w5,384,1,sum,"Preadipocyte - omental,",adipose,No
+4801,0,CNhs12046,/home/drk/tillage/datasets/human/cage/fantom/CNhs11067/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Internal Thoracic Artery,",muscle,No
+4802,0,CNhs12050,/home/drk/tillage/datasets/human/cage/fantom/CNhs11068/summary/coverage.w5,384,1,sum,"Synoviocyte,",connective tissue,No
+4803,0,CNhs11073,/home/drk/tillage/datasets/human/cage/fantom/CNhs11073/summary/coverage.w5,384,1,sum,"Mast cell - stimulated,",immune cell,No
+4804,0,CNhs11074,/home/drk/tillage/datasets/human/cage/fantom/CNhs11074/summary/coverage.w5,384,1,sum,"Fibroblast - skin spinal muscular atrophy,",skin,No
+4805,0,CNhs11675,/home/drk/tillage/datasets/human/cage/fantom/CNhs11075/summary/coverage.w5,384,1,sum,"Whole blood (ribopure), , donation1",blood,No
+4806,0,CNhs11671,/home/drk/tillage/datasets/human/cage/fantom/CNhs11076/summary/coverage.w5,384,1,sum,"Whole blood (ribopure), , donation2",blood,No
+4807,0,CNhs11077,/home/drk/tillage/datasets/human/cage/fantom/CNhs11077/summary/coverage.w5,384,1,sum,"Mammary Epithelial Cell,",breast,No
+4808,0,CNhs11385,/home/drk/tillage/datasets/human/cage/fantom/CNhs11078/summary/coverage.w5,384,1,sum,"Osteoblast,",bone,No
+4809,0,CNhs11386,/home/drk/tillage/datasets/human/cage/fantom/CNhs11079/summary/coverage.w5,384,1,sum,"Placental Epithelial Cells,",placenta,No
+4810,0,CNhs11981,/home/drk/tillage/datasets/human/cage/fantom/CNhs11081/summary/coverage.w5,384,1,sum,"Preadipocyte - subcutaneous,",adipose,No
+4811,0,CNhs11982,/home/drk/tillage/datasets/human/cage/fantom/CNhs11082/summary/coverage.w5,384,1,sum,"Preadipocyte - visceral,",adipose,No
+4812,0,CNhs11983,/home/drk/tillage/datasets/human/cage/fantom/CNhs11083/summary/coverage.w5,384,1,sum,"Skeletal Muscle Cells,",muscle,No
+4813,0,CNhs11984,/home/drk/tillage/datasets/human/cage/fantom/CNhs11084/summary/coverage.w5,384,1,sum,"Skeletal muscle cells differentiated into Myotubes - multinucleated,",muscle,No
+4814,0,CNhs11086,/home/drk/tillage/datasets/human/cage/fantom/CNhs11086/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Brachiocephalic,",muscle,No
+4815,0,CNhs11087,/home/drk/tillage/datasets/human/cage/fantom/CNhs11087/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Carotid,",muscle,No
+4816,0,CNhs11987,/home/drk/tillage/datasets/human/cage/fantom/CNhs11088/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Coronary Artery,",muscle,No
+4817,0,CNhs11089,/home/drk/tillage/datasets/human/cage/fantom/CNhs11089/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Pulmonary Artery,",muscle,No
+4818,0,CNhs11090,/home/drk/tillage/datasets/human/cage/fantom/CNhs11090/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Subclavian Artery,",muscle,No
+4819,0,CNhs11091,/home/drk/tillage/datasets/human/cage/fantom/CNhs11091/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Umbilical Artery,",umbilical,No
+4820,0,CNhs11092,/home/drk/tillage/datasets/human/cage/fantom/CNhs11092/summary/coverage.w5,384,1,sum,"Tracheal Epithelial Cells,",pharynx,No
+4821,0,CNhs11100,/home/drk/tillage/datasets/human/cage/fantom/CNhs11100/summary/coverage.w5,384,1,sum,ductal cell carcinoma cell line:KLM-1,breast,Yes
+4822,0,CNhs11245,/home/drk/tillage/datasets/human/cage/fantom/CNhs11183/summary/coverage.w5,384,1,sum,"schwannoma cell line:HS-PSS, tech_",brain,Yes
+4823,0,CNhs11185,/home/drk/tillage/datasets/human/cage/fantom/CNhs11185/summary/coverage.w5,384,1,sum,"glioblastoma cell line:A172, tech_",brain,Yes
+4824,0,CNhs11243,/home/drk/tillage/datasets/human/cage/fantom/CNhs11243/summary/coverage.w5,384,1,sum,prostate cancer cell line:PC-3,prostate,Yes
+4825,0,CNhs11244,/home/drk/tillage/datasets/human/cage/fantom/CNhs11244/summary/coverage.w5,384,1,sum,synovial sarcoma cell line:HS-SY-II,connective tissue,Yes
+4826,0,CNhs11247,/home/drk/tillage/datasets/human/cage/fantom/CNhs11247/summary/coverage.w5,384,1,sum,epithelioid sarcoma cell line:HS-ES-1,epithelium,Yes
+4827,0,CNhs11249,/home/drk/tillage/datasets/human/cage/fantom/CNhs11249/summary/coverage.w5,384,1,sum,endometrial stromal sarcoma cell line:OMC-9,uterus,Yes
+4828,0,CNhs11250,/home/drk/tillage/datasets/human/cage/fantom/CNhs11250/summary/coverage.w5,384,1,sum,chronic myelogenous leukemia cell line:K562,bone,Yes
+4829,0,CNhs11251,/home/drk/tillage/datasets/human/cage/fantom/CNhs11251/summary/coverage.w5,384,1,sum,acute lymphoblastic leukemia (B-ALL) cell line:BALL-1,immune cell,Yes
+4830,0,CNhs11252,/home/drk/tillage/datasets/human/cage/fantom/CNhs11252/summary/coverage.w5,384,1,sum,squamous cell carcinoma cell line:EC-GI-10,skin,Yes
+4831,0,CNhs11253,/home/drk/tillage/datasets/human/cage/fantom/CNhs11253/summary/coverage.w5,384,1,sum,acute lymphoblastic leukemia (T-ALL) cell line:Jurkat,immune cell,Yes
+4832,0,CNhs11254,/home/drk/tillage/datasets/human/cage/fantom/CNhs11254/summary/coverage.w5,384,1,sum,melanoma cell line:G-361,skin,Yes
+4833,0,CNhs11255,/home/drk/tillage/datasets/human/cage/fantom/CNhs11255/summary/coverage.w5,384,1,sum,rectal cancer cell line:TT1TKB,intestine,Yes
+4834,0,CNhs11256,/home/drk/tillage/datasets/human/cage/fantom/CNhs11256/summary/coverage.w5,384,1,sum,gall bladder carcinoma cell line:TGBC14TKB,bladder,Yes
+4835,0,CNhs11257,/home/drk/tillage/datasets/human/cage/fantom/CNhs11257/summary/coverage.w5,384,1,sum,renal cell carcinoma cell line:TUHR10TKB,kidney,Yes
+4836,0,CNhs11258,/home/drk/tillage/datasets/human/cage/fantom/CNhs11258/summary/coverage.w5,384,1,sum,myeloma cell line:PCM6,bone,Yes
+4837,0,CNhs11259,/home/drk/tillage/datasets/human/cage/fantom/CNhs11259/summary/coverage.w5,384,1,sum,ductal cell carcinoma cell line:MIA Paca2,breast,Yes
+4838,0,CNhs11260,/home/drk/tillage/datasets/human/cage/fantom/CNhs11260/summary/coverage.w5,384,1,sum,prostate cancer cell line:DU145,prostate,Yes
+4839,0,CNhs11261,/home/drk/tillage/datasets/human/cage/fantom/CNhs11261/summary/coverage.w5,384,1,sum,transitional-cell carcinoma cell line:JMSU1,NA,Yes
+4840,0,CNhs11263,/home/drk/tillage/datasets/human/cage/fantom/CNhs11263/summary/coverage.w5,384,1,sum,mesothelioma cell line:ACC-MESO-1,NA,Yes
+4841,0,CNhs11264,/home/drk/tillage/datasets/human/cage/fantom/CNhs11264/summary/coverage.w5,384,1,sum,mesothelioma cell line:ACC-MESO-4,NA,Yes
+4842,0,CNhs11265,/home/drk/tillage/datasets/human/cage/fantom/CNhs11265/summary/coverage.w5,384,1,sum,bile duct carcinoma cell line:TFK-1,liver,Yes
+4843,0,CNhs11266,/home/drk/tillage/datasets/human/cage/fantom/CNhs11266/summary/coverage.w5,384,1,sum,endometrial carcinoma cell line:OMC-2,uterus,Yes
+4844,0,CNhs11267,/home/drk/tillage/datasets/human/cage/fantom/CNhs11267/summary/coverage.w5,384,1,sum,retinoblastoma cell line:Y79,eye,Yes
+4845,0,CNhs11268,/home/drk/tillage/datasets/human/cage/fantom/CNhs11268/summary/coverage.w5,384,1,sum,Burkitt's lymphoma cell line:RAJI,lymph,Yes
+4846,0,CNhs11269,/home/drk/tillage/datasets/human/cage/fantom/CNhs11269/summary/coverage.w5,384,1,sum,rhabdomyosarcoma cell line:RMS-YM,NA,Yes
+4847,0,CNhs11270,/home/drk/tillage/datasets/human/cage/fantom/CNhs11270/summary/coverage.w5,384,1,sum,signet ring carcinoma cell line:NUGC-4,NA,Yes
+4848,0,CNhs11271,/home/drk/tillage/datasets/human/cage/fantom/CNhs11271/summary/coverage.w5,384,1,sum,hepatoma cell line:Li-7,liver,Yes
+4849,0,CNhs11272,/home/drk/tillage/datasets/human/cage/fantom/CNhs11272/summary/coverage.w5,384,1,sum,glioblastoma cell line:T98G,brain,Yes
+4850,0,CNhs11273,/home/drk/tillage/datasets/human/cage/fantom/CNhs11273/summary/coverage.w5,384,1,sum,squamous cell lung carcinoma cell line:EBC-1,lung,Yes
+4851,0,CNhs11274,/home/drk/tillage/datasets/human/cage/fantom/CNhs11274/summary/coverage.w5,384,1,sum,giant cell carcinoma cell line:LU65,NA,Yes
+4852,0,CNhs11275,/home/drk/tillage/datasets/human/cage/fantom/CNhs11275/summary/coverage.w5,384,1,sum,lung adenocarcinoma cell line:A549,lung,Yes
+4853,0,CNhs11276,/home/drk/tillage/datasets/human/cage/fantom/CNhs11276/summary/coverage.w5,384,1,sum,neuroblastoma cell line:CHP-134,brain,Yes
+4854,0,CNhs11277,/home/drk/tillage/datasets/human/cage/fantom/CNhs11277/summary/coverage.w5,384,1,sum,large cell lung carcinoma cell line:IA-LM,lung,Yes
+4855,0,CNhs11279,/home/drk/tillage/datasets/human/cage/fantom/CNhs11279/summary/coverage.w5,384,1,sum,osteosarcoma cell line:143B/TK^(-)neo^(R),bone,Yes
+4856,0,CNhs11280,/home/drk/tillage/datasets/human/cage/fantom/CNhs11280/summary/coverage.w5,384,1,sum,colon carcinoma cell line:CACO-2,intestine,Yes
+4857,0,CNhs11281,/home/drk/tillage/datasets/human/cage/fantom/CNhs11281/summary/coverage.w5,384,1,sum,melanoma cell line:COLO 679,skin,Yes
+4858,0,CNhs11282,/home/drk/tillage/datasets/human/cage/fantom/CNhs11282/summary/coverage.w5,384,1,sum,acute lymphoblastic leukemia (B-ALL) cell line:NALM-6,immune cell,Yes
+4859,0,CNhs11283,/home/drk/tillage/datasets/human/cage/fantom/CNhs11283/summary/coverage.w5,384,1,sum,cholangiocellular carcinoma cell line:HuH-28,bile duct,Yes
+4860,0,CNhs11284,/home/drk/tillage/datasets/human/cage/fantom/CNhs11284/summary/coverage.w5,384,1,sum,neuroblastoma cell line:NB-1,brain,Yes
+4861,0,CNhs11285,/home/drk/tillage/datasets/human/cage/fantom/CNhs11285/summary/coverage.w5,384,1,sum,small cell lung carcinoma cell line:LK-2,lung,Yes
+4862,0,CNhs11286,/home/drk/tillage/datasets/human/cage/fantom/CNhs11286/summary/coverage.w5,384,1,sum,gastric cancer cell line:AZ521,stomach,Yes
+4863,0,CNhs11287,/home/drk/tillage/datasets/human/cage/fantom/CNhs11287/summary/coverage.w5,384,1,sum,oral squamous cell carcinoma cell line:HO-1-u-1,NA,Yes
+4864,0,CNhs11288,/home/drk/tillage/datasets/human/cage/fantom/CNhs11288/summary/coverage.w5,384,1,sum,cervical cancer cell line:D98-AH2,cervix,Yes
+4865,0,CNhs11289,/home/drk/tillage/datasets/human/cage/fantom/CNhs11289/summary/coverage.w5,384,1,sum,cervical cancer cell line:ME-180,cervix,Yes
+4866,0,CNhs11290,/home/drk/tillage/datasets/human/cage/fantom/CNhs11290/summary/coverage.w5,384,1,sum,osteosarcoma cell line:HS-Os-1,bone,Yes
+4867,0,CNhs11303,/home/drk/tillage/datasets/human/cage/fantom/CNhs11303/summary/coverage.w5,384,1,sum,"Melanocyte - light,",skin,No
+4868,0,CNhs12035,/home/drk/tillage/datasets/human/cage/fantom/CNhs11311/summary/coverage.w5,384,1,sum,"Osteoblast - differentiated,",bone,No
+4869,0,CNhs11344,/home/drk/tillage/datasets/human/cage/fantom/CNhs11316/summary/coverage.w5,384,1,sum,"Mesenchymal Stem Cells - bone marrow,",bone,No
+4870,0,CNhs11317,/home/drk/tillage/datasets/human/cage/fantom/CNhs11317/summary/coverage.w5,384,1,sum,"Pericytes,",blood vessel,No
+4871,0,CNhs11319,/home/drk/tillage/datasets/human/cage/fantom/CNhs11319/summary/coverage.w5,384,1,sum,"Fibroblast - Choroid Plexus,",skin,No
+4872,0,CNhs12080,/home/drk/tillage/datasets/human/cage/fantom/CNhs11320/summary/coverage.w5,384,1,sum,"Meningeal Cells,",brain,No
+4873,0,CNhs12117,/home/drk/tillage/datasets/human/cage/fantom/CNhs11321/summary/coverage.w5,384,1,sum,"Astrocyte - cerebellum,",brain,No
+4874,0,CNhs11322,/home/drk/tillage/datasets/human/cage/fantom/CNhs11322/summary/coverage.w5,384,1,sum,"Fibroblast - Lymphatic,",lymph,No
+4875,0,CNhs12083,/home/drk/tillage/datasets/human/cage/fantom/CNhs11323/summary/coverage.w5,384,1,sum,"Esophageal Epithelial Cells,",esophagus,No
+4876,0,CNhs12727,/home/drk/tillage/datasets/human/cage/fantom/CNhs11324/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Esophageal,",muscle,No
+4877,0,CNhs12084,/home/drk/tillage/datasets/human/cage/fantom/CNhs11325/summary/coverage.w5,384,1,sum,"Alveolar Epithelial Cells,",lung,No
+4878,0,CNhs12623,/home/drk/tillage/datasets/human/cage/fantom/CNhs11327/summary/coverage.w5,384,1,sum,"Bronchial Epithelial Cell,",lung,No
+4879,0,CNhs12348,/home/drk/tillage/datasets/human/cage/fantom/CNhs11328/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Bronchial,",lung,No
+4880,0,CNhs12894,/home/drk/tillage/datasets/human/cage/fantom/CNhs11329/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Tracheal,",muscle,No
+4881,0,CNhs11330,/home/drk/tillage/datasets/human/cage/fantom/CNhs11330/summary/coverage.w5,384,1,sum,"Renal Proximal Tubular Epithelial Cell,",kidney,No
+4882,0,CNhs12728,/home/drk/tillage/datasets/human/cage/fantom/CNhs11331/summary/coverage.w5,384,1,sum,"Renal Cortical Epithelial Cells,",kidney,No
+4883,0,CNhs11332,/home/drk/tillage/datasets/human/cage/fantom/CNhs11332/summary/coverage.w5,384,1,sum,"Renal Epithelial Cells,",kidney,No
+4884,0,CNhs11333,/home/drk/tillage/datasets/human/cage/fantom/CNhs11333/summary/coverage.w5,384,1,sum,"Renal Mesangial Cells,",kidney,No
+4885,0,CNhs12091,/home/drk/tillage/datasets/human/cage/fantom/CNhs11334/summary/coverage.w5,384,1,sum,"Urothelial Cells,",kidney,No
+4886,0,CNhs12093,/home/drk/tillage/datasets/human/cage/fantom/CNhs11335/summary/coverage.w5,384,1,sum,"Hepatic Stellate Cells (lipocyte),",liver,No
+4887,0,CNhs12123,/home/drk/tillage/datasets/human/cage/fantom/CNhs11336/summary/coverage.w5,384,1,sum,"Corneal Epithelial Cells,",eye,No
+4888,0,CNhs12921,/home/drk/tillage/datasets/human/cage/fantom/CNhs11337/summary/coverage.w5,384,1,sum,"Keratocytes,",NA,No
+4889,0,CNhs12734,/home/drk/tillage/datasets/human/cage/fantom/CNhs11339/summary/coverage.w5,384,1,sum,"Fibroblast - Conjunctival,",eye,No
+4890,0,CNhs12124,/home/drk/tillage/datasets/human/cage/fantom/CNhs11340/summary/coverage.w5,384,1,sum,"Trabecular Meshwork Cells,",eye,No
+4891,0,CNhs12125,/home/drk/tillage/datasets/human/cage/fantom/CNhs11341/summary/coverage.w5,384,1,sum,"Amniotic Epithelial Cells,",NA,No
+4892,0,CNhs11343,/home/drk/tillage/datasets/human/cage/fantom/CNhs11343/summary/coverage.w5,384,1,sum,"Fibroblast - Villous Mesenchymal,",connective tissue,No
+4893,0,CNhs12922,/home/drk/tillage/datasets/human/cage/fantom/CNhs11345/summary/coverage.w5,384,1,sum,"Mesenchymal Stem Cells - adipose,",adipose,No
+4894,0,CNhs12730,/home/drk/tillage/datasets/human/cage/fantom/CNhs11346/summary/coverage.w5,384,1,sum,"Mesenchymal Stem Cells - hepatic,",liver,No
+4895,0,CNhs11347,/home/drk/tillage/datasets/human/cage/fantom/CNhs11347/summary/coverage.w5,384,1,sum,"Mesenchymal Stem Cells - umbilical,",umbilical,No
+4896,0,CNhs11348,/home/drk/tillage/datasets/human/cage/fantom/CNhs11348/summary/coverage.w5,384,1,sum,"Fibroblast - Mammary,",breast,No
+4897,0,CNhs11349,/home/drk/tillage/datasets/human/cage/fantom/CNhs11349/summary/coverage.w5,384,1,sum,"Mesenchymal Stem Cells - amniotic membrane,",NA,No
+4898,0,CNhs11350,/home/drk/tillage/datasets/human/cage/fantom/CNhs11350/summary/coverage.w5,384,1,sum,"Multipotent Cord Blood Unrestricted Somatic Stem Cells,",blood,No
+4899,0,CNhs11351,/home/drk/tillage/datasets/human/cage/fantom/CNhs11351/summary/coverage.w5,384,1,sum,"Fibroblast - skin normal,",skin,No
+4900,0,CNhs11352,/home/drk/tillage/datasets/human/cage/fantom/CNhs11352/summary/coverage.w5,384,1,sum,"Fibroblast - skin walker warburg,",skin,No
+4901,0,CNhs11913,/home/drk/tillage/datasets/human/cage/fantom/CNhs11353/summary/coverage.w5,384,1,sum,"Fibroblast - skin dystrophia myotonica,",skin,No
+4902,0,CNhs12017,/home/drk/tillage/datasets/human/cage/fantom/CNhs11371/summary/coverage.w5,384,1,sum,"Adipocyte - subcutaneous,",adipose,No
+4903,0,CNhs11923,/home/drk/tillage/datasets/human/cage/fantom/CNhs11372/summary/coverage.w5,384,1,sum,"Chondrocyte - de diff,",cartilage,No
+4904,0,CNhs11373,/home/drk/tillage/datasets/human/cage/fantom/CNhs11373/summary/coverage.w5,384,1,sum,"Chondrocyte - re diff,",cartilage,No
+4905,0,CNhs12024,/home/drk/tillage/datasets/human/cage/fantom/CNhs11376/summary/coverage.w5,384,1,sum,"Endothelial Cells - Microvascular,",endothelium,No
+4906,0,CNhs12026,/home/drk/tillage/datasets/human/cage/fantom/CNhs11377/summary/coverage.w5,384,1,sum,"Endothelial Cells - Vein,",endothelium,No
+4907,0,CNhs11909,/home/drk/tillage/datasets/human/cage/fantom/CNhs11378/summary/coverage.w5,384,1,sum,"Fibroblast - Cardiac,",heart,No
+4908,0,CNhs12499,/home/drk/tillage/datasets/human/cage/fantom/CNhs11379/summary/coverage.w5,384,1,sum,"Fibroblast - Dermal,",skin,No
+4909,0,CNhs12029,/home/drk/tillage/datasets/human/cage/fantom/CNhs11380/summary/coverage.w5,384,1,sum,"Fibroblast - Lung,",lung,No
+4910,0,CNhs11676,/home/drk/tillage/datasets/human/cage/fantom/CNhs11676/summary/coverage.w5,384,1,sum,"uterus, adult, pool1",uterus,No
+4911,0,CNhs11677,/home/drk/tillage/datasets/human/cage/fantom/CNhs11677/summary/coverage.w5,384,1,sum,"salivary gland, adult, pool1",pharynx,No
+4912,0,CNhs11680,/home/drk/tillage/datasets/human/cage/fantom/CNhs11680/summary/coverage.w5,384,1,sum,"lung, fetal,",lung,No
+4913,0,CNhs11714,/home/drk/tillage/datasets/human/cage/fantom/CNhs11714/summary/coverage.w5,384,1,sum,chronic lymphocytic leukemia (T-CLL) cell line:SKW-3,immune cell,Yes
+4914,0,CNhs11715,/home/drk/tillage/datasets/human/cage/fantom/CNhs11715/summary/coverage.w5,384,1,sum,Hodgkin's lymphoma cell line:HD-Mar2,immune cell,Yes
+4915,0,CNhs11716,/home/drk/tillage/datasets/human/cage/fantom/CNhs11716/summary/coverage.w5,384,1,sum,papillary adenocarcinoma cell line:8505C,NA,Yes
+4916,0,CNhs11717,/home/drk/tillage/datasets/human/cage/fantom/CNhs11717/summary/coverage.w5,384,1,sum,oral squamous cell carcinoma cell line:HSC-3,NA,Yes
+4917,0,CNhs11718,/home/drk/tillage/datasets/human/cage/fantom/CNhs11718/summary/coverage.w5,384,1,sum,mesenchymal stem cell line:Hu5/E18,NA,Yes
+4918,0,CNhs11722,/home/drk/tillage/datasets/human/cage/fantom/CNhs11722/summary/coverage.w5,384,1,sum,leiomyoma cell line:10964C,NA,Yes
+4919,0,CNhs11723,/home/drk/tillage/datasets/human/cage/fantom/CNhs11723/summary/coverage.w5,384,1,sum,leiomyoma cell line:15242A,NA,Yes
+4920,0,CNhs11724,/home/drk/tillage/datasets/human/cage/fantom/CNhs11724/summary/coverage.w5,384,1,sum,leiomyoma cell line:15425,NA,Yes
+4921,0,CNhs11725,/home/drk/tillage/datasets/human/cage/fantom/CNhs11725/summary/coverage.w5,384,1,sum,argyrophil small cell carcinoma cell line:TC-YIK,cervix,Yes
+4922,0,CNhs11726,/home/drk/tillage/datasets/human/cage/fantom/CNhs11726/summary/coverage.w5,384,1,sum,testicular germ cell embryonal carcinoma cell line:NEC8,male rep.,Yes
+4923,0,CNhs11728,/home/drk/tillage/datasets/human/cage/fantom/CNhs11728/summary/coverage.w5,384,1,sum,Wilms' tumor cell line:HFWT,kidney,Yes
+4924,0,CNhs11729,/home/drk/tillage/datasets/human/cage/fantom/CNhs11729/summary/coverage.w5,384,1,sum,myxofibrosarcoma cell line:MFH-ino,NA,Yes
+4925,0,CNhs11731,/home/drk/tillage/datasets/human/cage/fantom/CNhs11731/summary/coverage.w5,384,1,sum,embryonic pancreas cell line:1B2C6,pancreas,Yes
+4926,0,CNhs11732,/home/drk/tillage/datasets/human/cage/fantom/CNhs11732/summary/coverage.w5,384,1,sum,embryonic pancreas cell line:1C3D3,pancreas,Yes
+4927,0,CNhs11733,/home/drk/tillage/datasets/human/cage/fantom/CNhs11733/summary/coverage.w5,384,1,sum,embryonic pancreas cell line:1C3IKEI,pancreas,Yes
+4928,0,CNhs11734,/home/drk/tillage/datasets/human/cage/fantom/CNhs11734/summary/coverage.w5,384,1,sum,small-cell gastrointestinal carcinoma cell line:ECC4,intestine,Yes
+4929,0,CNhs11736,/home/drk/tillage/datasets/human/cage/fantom/CNhs11736/summary/coverage.w5,384,1,sum,small cell gastrointestinal carcinoma cell line:ECC10,intestine,Yes
+4930,0,CNhs11737,/home/drk/tillage/datasets/human/cage/fantom/CNhs11737/summary/coverage.w5,384,1,sum,gastric adenocarcinoma cell line:MKN1,stomach,Yes
+4931,0,CNhs11738,/home/drk/tillage/datasets/human/cage/fantom/CNhs11738/summary/coverage.w5,384,1,sum,gastrointestinal carcinoma cell line:ECC12,intestine,Yes
+4932,0,CNhs11739,/home/drk/tillage/datasets/human/cage/fantom/CNhs11739/summ0647ary/coverage.w5,384,1,sum,squamous cell carcinoma cell line:T3M-5,skin,Yes
+4933,0,CNhs11740,/home/drk/tillage/datasets/human/cage/fantom/CNhs11740/summary/coverage.w5,384,1,sum,granulosa cell tumor cell line:KGN,ovary,Yes
+4934,0,CNhs11741,/home/drk/tillage/datasets/human/cage/fantom/CNhs11741/summary/coverage.w5,384,1,sum,diffuse large B-cell lymphoma cell line:CTB-1,immune cell,Yes
+4935,0,CNhs11742,/home/drk/tillage/datasets/human/cage/fantom/CNhs11742/summary/coverage.w5,384,1,sum,hepatoblastoma cell line:HuH-6,liver,Yes
+4936,0,CNhs11744,/home/drk/tillage/datasets/human/cage/fantom/CNhs11744/summary/coverage.w5,384,1,sum,neuroectodermal tumor cell line:FU-RPNT-1,NA,Yes
+4937,0,CNhs11745,/home/drk/tillage/datasets/human/cage/fantom/CNhs11745/summary/coverage.w5,384,1,sum,clear cell carcinoma cell line:JHOC-5,ear,Yes
+4938,0,CNhs11746,/home/drk/tillage/datasets/human/cage/fantom/CNhs11746/summary/coverage.w5,384,1,sum,serous adenocarcinoma cell line:JHOS-2,epithelium,Yes
+4939,0,CNhs11747,/home/drk/tillage/datasets/human/cage/fantom/CNhs11747/summary/coverage.w5,384,1,sum,carcinosarcoma cell line:JHUCS-1,NA,Yes
+4940,0,CNhs11748,/home/drk/tillage/datasets/human/cage/fantom/CNhs11748/summary/coverage.w5,384,1,sum,endometrioid adenocarcinoma cell line:JHUEM-1,NA,Yes
+4941,0,CNhs11749,/home/drk/tillage/datasets/human/cage/fantom/CNhs11749/summary/coverage.w5,384,1,sum,squamous cell carcinoma cell line:JHUS-nk1,skin,Yes
+4942,0,CNhs11750,/home/drk/tillage/datasets/human/cage/fantom/CNhs11750/summary/coverage.w5,384,1,sum,lens epithelial cell line:SRA 01/04,eye,Yes
+4943,0,CNhs11752,/home/drk/tillage/datasets/human/cage/fantom/CNhs11752/summary/coverage.w5,384,1,sum,mucinous adenocarcinoma cell line:JHOM-1,NA,Yes
+4944,0,CNhs11753,/home/drk/tillage/datasets/human/cage/fantom/CNhs11753/summary/coverage.w5,384,1,sum,neuroectodermal tumor cell line:FU-RPNT-2,NA,Yes
+4945,0,CNhs11755,/home/drk/tillage/datasets/human/cage/fantom/CNhs11755/summary/coverage.w5,384,1,sum,"smooth muscle, adult, pool1",muscle,No
+4946,0,CNhs11756,/home/drk/tillage/datasets/human/cage/fantom/CNhs11756/summary/coverage.w5,384,1,sum,"pancreas, adult,",pancreas,No
+4947,0,CNhs11757,/home/drk/tillage/datasets/human/cage/fantom/CNhs11757/summary/coverage.w5,384,1,sum,"heart, adult, diseased post-infarction,",heart,No
+4948,0,CNhs11758,/home/drk/tillage/datasets/human/cage/fantom/CNhs11758/summary/coverage.w5,384,1,sum,"heart, adult, diseased,",heart,No
+4949,0,CNhs11760,/home/drk/tillage/datasets/human/cage/fantom/CNhs11760/summary/coverage.w5,384,1,sum,"aorta, adult, pool1",heart,No
+4950,0,CNhs11761,/home/drk/tillage/datasets/human/cage/fantom/CNhs11761/summary/coverage.w5,384,1,sum,"blood, adult, pool1",blood,No
+4951,0,CNhs11762,/home/drk/tillage/datasets/human/cage/fantom/CNhs11762/summary/coverage.w5,384,1,sum,"eye, fetal,",eye,No
+4952,0,CNhs11763,/home/drk/tillage/datasets/human/cage/fantom/CNhs11763/summary/coverage.w5,384,1,sum,"uterus, fetal,",uterus,No
+4953,0,CNhs11764,/home/drk/tillage/datasets/human/cage/fantom/CNhs11764/summary/coverage.w5,384,1,sum,"spinal cord, fetal,",brain,No
+4954,0,CNhs11765,/home/drk/tillage/datasets/human/cage/fantom/CNhs11765/summary/coverage.w5,384,1,sum,"umbilical cord, fetal,",umbilical,No
+4955,0,CNhs11766,/home/drk/tillage/datasets/human/cage/fantom/CNhs11766/summary/coverage.w5,384,1,sum,"trachea, fetal,",lung,No
+4956,0,CNhs11768,/home/drk/tillage/datasets/human/cage/fantom/CNhs11768/summary/coverage.w5,384,1,sum,"tongue, fetal,",tongue,No
+4957,0,CNhs11769,/home/drk/tillage/datasets/human/cage/fantom/CNhs11769/summary/coverage.w5,384,1,sum,"thyroid, fetal,",thyroid,No
+4958,0,CNhs11770,/home/drk/tillage/datasets/human/cage/fantom/CNhs11770/summary/coverage.w5,384,1,sum,"throat, fetal,",pharynx,No
+4959,0,CNhs11771,/home/drk/tillage/datasets/human/cage/fantom/CNhs11771/summary/coverage.w5,384,1,sum,"stomach, fetal,",stomach,No
+4960,0,CNhs11772,/home/drk/tillage/datasets/human/cage/fantom/CNhs11772/summary/coverage.w5,384,1,sum,"temporal lobe, fetal, , tech_",brain,No
+4961,0,CNhs11773,/home/drk/tillage/datasets/human/cage/fantom/CNhs11773/summary/coverage.w5,384,1,sum,"small intestine, fetal,",intestine,No
+4962,0,CNhs11774,/home/drk/tillage/datasets/human/cage/fantom/CNhs11774/summary/coverage.w5,384,1,sum,"skin, fetal,",skin,No
+4963,0,CNhs11776,/home/drk/tillage/datasets/human/cage/fantom/CNhs11776/summary/coverage.w5,384,1,sum,"skeletal muscle, fetal,",muscle,No
+4964,0,CNhs11777,/home/drk/tillage/datasets/human/cage/fantom/CNhs11777/summary/coverage.w5,384,1,sum,"rectum, fetal,",intestine,No
+4965,0,CNhs11779,/home/drk/tillage/datasets/human/cage/fantom/CNhs11779/summary/coverage.w5,384,1,sum,"diaphragm, fetal,",muscle,No
+4966,0,CNhs11780,/home/drk/tillage/datasets/human/cage/fantom/CNhs11780/summary/coverage.w5,384,1,sum,"colon, fetal,",intestine,No
+4967,0,CNhs12997,/home/drk/tillage/datasets/human/cage/fantom/CNhs11781/summary/coverage.w5,384,1,sum,"duodenum, fetal, , tech_",intestine,No
+4968,0,CNhs11782,/home/drk/tillage/datasets/human/cage/fantom/CNhs11782/summary/coverage.w5,384,1,sum,"parietal lobe, fetal,",brain,No
+4969,0,CNhs11784,/home/drk/tillage/datasets/human/cage/fantom/CNhs11784/summary/coverage.w5,384,1,sum,"occipital lobe, fetal,",brain,No
+4970,0,CNhs11785,/home/drk/tillage/datasets/human/cage/fantom/CNhs11785/summary/coverage.w5,384,1,sum,"skin, adult,",skin,No
+4971,0,CNhs11786,/home/drk/tillage/datasets/human/cage/fantom/CNhs11786/summary/coverage.w5,384,1,sum,"lung, right lower lobe, adult,",lung,No
+4972,0,CNhs11787,/home/drk/tillage/datasets/human/cage/fantom/CNhs11787/summary/coverage.w5,384,1,sum,"occipital lobe, adult,",brain,No
+4973,0,CNhs11788,/home/drk/tillage/datasets/human/cage/fantom/CNhs11788/summary/coverage.w5,384,1,sum,"lymph node, adult,",lymph,No
+4974,0,CNhs11789,/home/drk/tillage/datasets/human/cage/fantom/CNhs11789/summary/coverage.w5,384,1,sum,"left ventricle, adult,",heart,No
+4975,0,CNhs11790,/home/drk/tillage/datasets/human/cage/fantom/CNhs11790/summary/coverage.w5,384,1,sum,"left atrium, adult,",heart,No
+4976,0,CNhs11792,/home/drk/tillage/datasets/human/cage/fantom/CNhs11792/summary/coverage.w5,384,1,sum,"breast, adult,",breast,No
+4977,0,CNhs11793,/home/drk/tillage/datasets/human/cage/fantom/CNhs11793/summary/coverage.w5,384,1,sum,"adrenal gland, adult, pool1",endocrine,No
+4978,0,CNhs11794,/home/drk/tillage/datasets/human/cage/fantom/CNhs11794/summary/coverage.w5,384,1,sum,"colon, adult,",intestine,No
+4979,0,CNhs11795,/home/drk/tillage/datasets/human/cage/fantom/CNhs11795/summary/coverage.w5,384,1,sum,"cerebellum, adult, pool1",brain,No
+4980,0,CNhs11796,/home/drk/tillage/datasets/human/cage/fantom/CNhs11796/summary/coverage.w5,384,1,sum,"brain, adult,",brain,No
+4981,0,CNhs11797,/home/drk/tillage/datasets/human/cage/fantom/CNhs11797/summary/coverage.w5,384,1,sum,"brain, fetal, pool1",brain,No
+4982,0,CNhs11798,/home/drk/tillage/datasets/human/cage/fantom/CNhs11798/summary/coverage.w5,384,1,sum,"liver, fetal, pool1",liver,No
+4983,0,CNhs11810,/home/drk/tillage/datasets/human/cage/fantom/CNhs11810/summary/coverage.w5,384,1,sum,oral squamous cell carcinoma cell line:SAS,NA,Yes
+4984,0,CNhs11811,/home/drk/tillage/datasets/human/cage/fantom/CNhs11811/summary/coverage.w5,384,1,sum,neuroblastoma cell line:NH-12,brain,Yes
+4985,0,CNhs11812,/home/drk/tillage/datasets/human/cage/fantom/CNhs11812/summary/coverage.w5,384,1,sum,small cell lung carcinoma cell line:WA-hT,lung,Yes
+4986,0,CNhs11813,/home/drk/tillage/datasets/human/cage/fantom/CNhs11813/summary/coverage.w5,384,1,sum,xeroderma pigentosum b cell line:XPL 17,immune cell,Yes
+4987,0,CNhs11814,/home/drk/tillage/datasets/human/cage/fantom/CNhs11814/summary/coverage.w5,384,1,sum,embryonic pancreas cell line:2C6,pancreas,Yes
+4988,0,CNhs11818,/home/drk/tillage/datasets/human/cage/fantom/CNhs11818/summary/coverage.w5,384,1,sum,neuroblastoma cell line:NBsusSR,brain,Yes
+4989,0,CNhs11819,/home/drk/tillage/datasets/human/cage/fantom/CNhs11819/summary/coverage.w5,384,1,sum,gastric adenocarcinoma cell line:MKN45,stomach,Yes
+4990,0,CNhs11820,/home/drk/tillage/datasets/human/cage/fantom/CNhs11820/summary/coverage.w5,384,1,sum,choriocarcinoma cell line:T3M-3,bone,Yes
+4991,0,CNhs11821,/home/drk/tillage/datasets/human/cage/fantom/CNhs11821/summary/coverage.w5,384,1,sum,myxofibrosarcoma cell line:NMFH-1,NA,Yes
+4992,0,CNhs11822,/home/drk/tillage/datasets/human/cage/fantom/CNhs11822/summary/coverage.w5,384,1,sum,Krukenberg tumor cell line:HSKTC,NA,Yes
+4993,0,CNhs11824,/home/drk/tillage/datasets/human/cage/fantom/CNhs11824/summary/coverage.w5,384,1,sum,glassy cell carcinoma cell line:HOKUG,cervix,Yes
+4994,0,CNhs11825,/home/drk/tillage/datasets/human/cage/fantom/CNhs11825/summary/coverage.w5,384,1,sum,large cell non-keratinizing squamous carcinoma cell line:SKG-II-SF,NA,Yes
+4995,0,CNhs11827,/home/drk/tillage/datasets/human/cage/fantom/CNhs11827/summary/coverage.w5,384,1,sum,serous cystadenocarcinoma cell line:HTOA,epithelium,Yes
+4996,0,CNhs11828,/home/drk/tillage/datasets/human/cage/fantom/CNhs11828/summary/coverage.w5,384,1,sum,tridermal teratoma cell line:HGRT,NA,Yes
+4997,0,CNhs11829,/home/drk/tillage/datasets/human/cage/fantom/CNhs11829/summary/coverage.w5,384,1,sum,sacrococcigeal teratoma cell line:HTST,NA,Yes
+4998,0,CNhs11830,/home/drk/tillage/datasets/human/cage/fantom/CNhs11830/summary/coverage.w5,384,1,sum,peripheral neuroectodermal tumor cell line:KU-SN,NA,Yes
+4999,0,CNhs11832,/home/drk/tillage/datasets/human/cage/fantom/CNhs11832/summary/coverage.w5,384,1,sum,pancreatic carcinoma cell line:NOR-P1,pancreas,Yes
+5000,0,CNhs11833,/home/drk/tillage/datasets/human/cage/fantom/CNhs11833/summary/coverage.w5,384,1,sum,chondrosarcoma cell line:SW 1353,cartilage,Yes
+5001,0,CNhs11834,/home/drk/tillage/datasets/human/cage/fantom/CNhs11834/summary/coverage.w5,384,1,sum,carcinoid cell line:NCI-H1770,NA,Yes
+5002,0,CNhs11835,/home/drk/tillage/datasets/human/cage/fantom/CNhs11835/summary/coverage.w5,384,1,sum,osteoclastoma cell line:Hs 706.T,bone,Yes
+5003,0,CNhs11836,/home/drk/tillage/datasets/human/cage/fantom/CNhs11836/summary/coverage.w5,384,1,sum,Ewing's sarcoma cell line:Hs 863.T,bone,Yes
+5004,0,CNhs11837,/home/drk/tillage/datasets/human/cage/fantom/CNhs11837/summary/coverage.w5,384,1,sum,transitional cell carcinoma cell line:Hs 769.T,NA,Yes
+5005,0,CNhs11838,/home/drk/tillage/datasets/human/cage/fantom/CNhs11838/summary/coverage.w5,384,1,sum,alveolar cell carcinoma cell line:SW 1573,lung,Yes
+5006,0,CNhs11840,/home/drk/tillage/datasets/human/cage/fantom/CNhs11840/summary/coverage.w5,384,1,sum,bronchioalveolar carcinoma cell line:NCI-H358,lung,Yes
+5007,0,CNhs11841,/home/drk/tillage/datasets/human/cage/fantom/CNhs11841/summary/coverage.w5,384,1,sum,bronchogenic carcinoma cell line:ChaGo-K-1,lung,Yes
+5008,0,CNhs11842,/home/drk/tillage/datasets/human/cage/fantom/CNhs11842/summary/coverage.w5,384,1,sum,fibrous histiocytoma cell line:GCT TIB-223,skin,Yes
+5009,0,CNhs11843,/home/drk/tillage/datasets/human/cage/fantom/CNhs11843/summary/coverage.w5,384,1,sum,hairy cell leukemia cell line:Mo,immune cell,Yes
+5010,0,CNhs11844,/home/drk/tillage/datasets/human/cage/fantom/CNhs11844/summary/coverage.w5,384,1,sum,acantholytic squamous carcinoma cell line:HCC1806,skin,Yes
+5011,0,CNhs11845,/home/drk/tillage/datasets/human/cage/fantom/CNhs11845/summary/coverage.w5,384,1,sum,biphenotypic B myelomonocytic leukemia cell line:MV-4-11,NA,Yes
+5012,0,CNhs11846,/home/drk/tillage/datasets/human/cage/fantom/CNhs11846/summary/coverage.w5,384,1,sum,carcinoid cell line:SK-PN-DW,NA,Yes
+5013,0,CNhs11848,/home/drk/tillage/datasets/human/cage/fantom/CNhs11848/summary/coverage.w5,384,1,sum,leiomyoblastoma cell line:G-402,NA,Yes
+5014,0,CNhs11849,/home/drk/tillage/datasets/human/cage/fantom/CNhs11849/summary/coverage.w5,384,1,sum,pharyngeal carcinoma cell line:Detroit 562,pharynx,Yes
+5015,0,CNhs11851,/home/drk/tillage/datasets/human/cage/fantom/CNhs11851/summary/coverage.w5,384,1,sum,liposarcoma cell line:SW 872,NA,Yes
+5016,0,CNhs11852,/home/drk/tillage/datasets/human/cage/fantom/CNhs11852/summary/coverage.w5,384,1,sum,lymphangiectasia cell line:DS-1,lymph,Yes
+5017,0,CNhs11853,/home/drk/tillage/datasets/human/cage/fantom/CNhs11853/summary/coverage.w5,384,1,sum,neuroepithelioma cell line:SK-N-MC,NA,Yes
+5018,0,CNhs11854,/home/drk/tillage/datasets/human/cage/fantom/CNhs11854/summary/coverage.w5,384,1,sum,neurofibroma cell line:Hs 53.T,NA,Yes
+5019,0,CNhs11856,/home/drk/tillage/datasets/human/cage/fantom/CNhs11856/summary/coverage.w5,384,1,sum,pagetoid sarcoma cell line:Hs 925.T,NA,Yes
+5020,0,CNhs11857,/home/drk/tillage/datasets/human/cage/fantom/CNhs11857/summary/coverage.w5,384,1,sum,spindle cell sarcoma cell line:Hs 132.T,bone,Yes
+5021,0,CNhs11858,/home/drk/tillage/datasets/human/cage/fantom/CNhs11858/summary/coverage.w5,384,1,sum,"mycosis fungoides, T cell lymphoma cell line:HuT 102 TIB-162",immune cell,Yes
+5022,0,CNhs11859,/home/drk/tillage/datasets/human/cage/fantom/CNhs11859/summary/coverage.w5,384,1,sum,"leukemia, chronic megakaryoblastic cell line:MEG-01",immune cell,Yes
+5023,0,CNhs11860,/home/drk/tillage/datasets/human/cage/fantom/CNhs11860/summary/coverage.w5,384,1,sum,fibrosarcoma cell line:HT-1080,NA,Yes
+5024,0,CNhs11861,/home/drk/tillage/datasets/human/cage/fantom/CNhs11861/summary/coverage.w5,384,1,sum,medulloblastoma cell line:ONS-76,brain,Yes
+5025,0,CNhs11862,/home/drk/tillage/datasets/human/cage/fantom/CNhs11862/summary/coverage.w5,384,1,sum,bronchial squamous cell carcinoma cell line:KNS-62,lung,Yes
+5026,0,CNhs11864,/home/drk/tillage/datasets/human/cage/fantom/CNhs11864/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M2) cell line:NKM-1,immune cell,Yes
+5027,0,CNhs11865,/home/drk/tillage/datasets/human/cage/fantom/CNhs11865/summary/coverage.w5,384,1,sum,chronic myelogenous leukemia (CML) cell line:MEG-A2,bone,Yes
+5028,0,CNhs11866,/home/drk/tillage/datasets/human/cage/fantom/CNhs11866/summary/coverage.w5,384,1,sum,neuroectodermal tumor cell line:TASK1,NA,Yes
+5029,0,CNhs11867,/home/drk/tillage/datasets/human/cage/fantom/CNhs11867/summary/coverage.w5,384,1,sum,NK T cell leukemia cell line:KHYG-1,immune cell,Yes
+5030,0,CNhs11868,/home/drk/tillage/datasets/human/cage/fantom/CNhs11868/summary/coverage.w5,384,1,sum,hepatic mesenchymal tumor cell line:LI90,liver,Yes
+5031,0,CNhs11869,/home/drk/tillage/datasets/human/cage/fantom/CNhs11869/summary/coverage.w5,384,1,sum,somatostatinoma cell line:QGP-1,endocrine,Yes
+5032,0,CNhs11870,/home/drk/tillage/datasets/human/cage/fantom/CNhs11870/summary/coverage.w5,384,1,sum,liposarcoma cell line:KMLS-1,NA,Yes
+5033,0,CNhs11872,/home/drk/tillage/datasets/human/cage/fantom/CNhs11872/summary/coverage.w5,384,1,sum,thyroid carcinoma cell line:TCO-1,thyroid,Yes
+5034,0,CNhs11873,/home/drk/tillage/datasets/human/cage/fantom/CNhs11873/summary/coverage.w5,384,1,sum,mucinous cystadenocarcinoma cell line:MCAS,NA,Yes
+5035,0,CNhs11875,/home/drk/tillage/datasets/human/cage/fantom/CNhs11875/summary/coverage.w5,384,1,sum,choriocarcinoma cell line:SCH,bone,Yes
+5036,0,CNhs11876,/home/drk/tillage/datasets/human/cage/fantom/CNhs11876/summary/coverage.w5,384,1,sum,testicular germ cell embryonal carcinoma cell line:ITO-II,male rep.,Yes
+5037,0,CNhs11877,/home/drk/tillage/datasets/human/cage/fantom/CNhs11877/summary/coverage.w5,384,1,sum,rhabdomyosarcoma cell line:KYM-1,NA,Yes
+5038,0,CNhs11878,/home/drk/tillage/datasets/human/cage/fantom/CNhs11878/summary/coverage.w5,384,1,sum,teratocarcinoma cell line:NCC-IT-A3,NA,Yes
+5039,0,CNhs11880,/home/drk/tillage/datasets/human/cage/fantom/CNhs11880/summary/coverage.w5,384,1,sum,keratoacanthoma cell line:HKA-1,skin,Yes
+5040,0,CNhs11881,/home/drk/tillage/datasets/human/cage/fantom/CNhs11881/summary/coverage.w5,384,1,sum,anaplastic large cell lymphoma cell line:Ki-JK,NA,Yes
+5041,0,CNhs11882,/home/drk/tillage/datasets/human/cage/fantom/CNhs11882/summary/coverage.w5,384,1,sum,adenocarcinoma cell line:IM95m,NA,Yes
+5042,0,CNhs11883,/home/drk/tillage/datasets/human/cage/fantom/CNhs11883/summary/coverage.w5,384,1,sum,tubular adenocarcinoma cell line:SUIT-2,NA,Yes
+5043,0,CNhs11884,/home/drk/tillage/datasets/human/cage/fantom/CNhs11884/summary/coverage.w5,384,1,sum,teratocarcinoma cell line:NCR-G1,NA,Yes
+5044,0,CNhs11885,/home/drk/tillage/datasets/human/cage/fantom/CNhs11885/summary/coverage.w5,384,1,sum,small cell cervical cancer cell line:HCSC-1,cervix,Yes
+5045,0,CNhs11886,/home/drk/tillage/datasets/human/cage/fantom/CNhs11886/summary/coverage.w5,384,1,sum,chronic myeloblastic leukemia (CML) cell line:KCL-22,bone,Yes
+5046,0,CNhs11888,/home/drk/tillage/datasets/human/cage/fantom/CNhs11888/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M7) cell line:MKPL-1,immune cell,Yes
+5047,0,CNhs11889,/home/drk/tillage/datasets/human/cage/fantom/CNhs11889/summary/coverage.w5,384,1,sum,anaplastic squamous cell carcinoma cell line:RPMI 2650,NA,Yes
+5048,0,CNhs11890,/home/drk/tillage/datasets/human/cage/fantom/CNhs11890/summary/coverage.w5,384,1,sum,teratocarcinoma cell line:PA-1,NA,Yes
+5049,0,CNhs11891,/home/drk/tillage/datasets/human/cage/fantom/CNhs11891/summary/coverage.w5,384,1,sum,hereditary spherocytic anemia cell line:WIL2-NS,blood,Yes
+5050,0,CNhs11892,/home/drk/tillage/datasets/human/cage/fantom/CNhs11892/summary/coverage.w5,384,1,sum,Wilms' tumor cell line:G-401,kidney,Yes
+5051,0,CNhs11893,/home/drk/tillage/datasets/human/cage/fantom/CNhs11893/summary/coverage.w5,384,1,sum,adrenal cortex adenocarcinoma cell line:SW-13,endocrine,Yes
+5052,0,CNhs11894,/home/drk/tillage/datasets/human/cage/fantom/CNhs11894/summary/coverage.w5,384,1,sum,normal embryonic palatal mesenchymal cell line:HEPM,NA,Yes
+5053,0,CNhs11896,/home/drk/tillage/datasets/human/cage/fantom/CNhs11896/summary/coverage.w5,384,1,sum,"Gingival epithelial cells,  (GEA14)",epithelium,No
+5054,0,CNhs11903,/home/drk/tillage/datasets/human/cage/fantom/CNhs11903/summary/coverage.w5,384,1,sum,"Gingival epithelial cells,  (GEA15)",epithelium,No
+5055,0,CNhs11910,/home/drk/tillage/datasets/human/cage/fantom/CNhs11910/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Prostate,",muscle,No
+5056,0,CNhs11927,/home/drk/tillage/datasets/human/cage/fantom/CNhs11921/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Uterine,",muscle,No
+5057,0,CNhs11978,/home/drk/tillage/datasets/human/cage/fantom/CNhs11926/summary/coverage.w5,384,1,sum,"Endothelial Cells - Thoracic,",endothelium,No
+5058,0,CNhs11930,/home/drk/tillage/datasets/human/cage/fantom/CNhs11930/summary/coverage.w5,384,1,sum,clear cell carcinoma cell line:TEN,ear,Yes
+5059,0,CNhs11931,/home/drk/tillage/datasets/human/cage/fantom/CNhs11931/summary/coverage.w5,384,1,sum,bone marrow stromal cell line:StromaNKtert,bone,Yes
+5060,0,CNhs11932,/home/drk/tillage/datasets/human/cage/fantom/CNhs11932/summary/coverage.w5,384,1,sum,basal cell carcinoma cell line:TE 354.T,epithelium,Yes
+5061,0,CNhs11933,/home/drk/tillage/datasets/human/cage/fantom/CNhs11933/summary/coverage.w5,384,1,sum,pleomorphic hepatocellular carcinoma cell line:SNU-387,liver,Yes
+5062,0,CNhs11934,/home/drk/tillage/datasets/human/cage/fantom/CNhs11934/summary/coverage.w5,384,1,sum,myelodysplastic syndrome cell line:SKM-1,NA,Yes
+5063,0,CNhs11935,/home/drk/tillage/datasets/human/cage/fantom/CNhs11935/summary/coverage.w5,384,1,sum,"lymphoma, malignant, hairy B-cell cell line:MLMA",NA,Yes
+5064,0,CNhs11943,/home/drk/tillage/datasets/human/cage/fantom/CNhs11943/summary/coverage.w5,384,1,sum,breast carcinoma cell line:MCF7,breast,Yes
+5065,0,CNhs11944,/home/drk/tillage/datasets/human/cage/fantom/CNhs11944/summary/coverage.w5,384,1,sum,mixed mullerian tumor cell line:HTMMT,NA,Yes
+5066,0,CNhs11945,/home/drk/tillage/datasets/human/cage/fantom/CNhs11945/summary/coverage.w5,384,1,sum,meningioma cell line:HKBMM,brain,Yes
+5067,0,CNhs11949,/home/drk/tillage/datasets/human/cage/fantom/CNhs11948/summary/coverage.w5,384,1,sum,"Whole blood (ribopure), , donation3",blood,No
+5068,0,CNhs11950,/home/drk/tillage/datasets/human/cage/fantom/CNhs11950/summary/coverage.w5,384,1,sum,normal intestinal epithelial cell line:FHs 74 Int,intestine,Yes
+5069,0,CNhs11952,/home/drk/tillage/datasets/human/cage/fantom/CNhs11952/summary/coverage.w5,384,1,sum,"Fibroblast - Gingival,  (GFH3)",connective tissue,No
+5070,0,CNhs11953,/home/drk/tillage/datasets/human/cage/fantom/CNhs11953/summary/coverage.w5,384,1,sum,"Fibroblast - Periodontal Ligament,  (PL30)",connective tissue,No
+5071,0,CNhs12014,/home/drk/tillage/datasets/human/cage/fantom/CNhs11972/summary/coverage.w5,384,1,sum,"Prostate Epithelial Cells,",prostate,No
+5072,0,CNhs11977,/home/drk/tillage/datasets/human/cage/fantom/CNhs11977/summary/coverage.w5,384,1,sum,"Endothelial Cells - Artery,",endothelium,No
+5073,0,CNhs11979,/home/drk/tillage/datasets/human/cage/fantom/CNhs11979/summary/coverage.w5,384,1,sum,"Hair Follicle Dermal Papilla Cells,",skin,No
+5074,0,CNhs11996,/home/drk/tillage/datasets/human/cage/fantom/CNhs11996/summary/coverage.w5,384,1,sum,"Fibroblast - Periodontal Ligament,  (PLH3)",connective tissue,No
+5075,0,CNhs12195,/home/drk/tillage/datasets/human/cage/fantom/CNhs12000/summary/coverage.w5,384,1,sum,"Dendritic Cells - monocyte immature derived,",immune cell,No
+5076,0,CNhs12065,/home/drk/tillage/datasets/human/cage/fantom/CNhs12065/summary/coverage.w5,384,1,sum,"Preadipocyte - perirenal,",adipose,No
+5077,0,CNhs12069,/home/drk/tillage/datasets/human/cage/fantom/CNhs12069/summary/coverage.w5,384,1,sum,"Adipocyte - perirenal,",adipose,No
+5078,0,CNhs12073,/home/drk/tillage/datasets/human/cage/fantom/CNhs12073/summary/coverage.w5,384,1,sum,"Schwann Cells,",brain,No
+5079,0,CNhs12086,/home/drk/tillage/datasets/human/cage/fantom/CNhs12074/summary/coverage.w5,384,1,sum,"Renal Glomerular Endothelial Cells,",kidney,No
+5080,0,CNhs12092,/home/drk/tillage/datasets/human/cage/fantom/CNhs12075/summary/coverage.w5,384,1,sum,"Hepatic Sinusoidal Endothelial Cells,",liver,No
+5081,0,CNhs12179,/home/drk/tillage/datasets/human/cage/fantom/CNhs12175/summary/coverage.w5,384,1,sum,"CD19+ B Cells (pluriselect), , donation2",immune cell,No
+5082,0,CNhs12182,/home/drk/tillage/datasets/human/cage/fantom/CNhs12176/summary/coverage.w5,384,1,sum,"CD8+ T Cells (pluriselect), , donation1",immune cell,No
+5083,0,CNhs12531,/home/drk/tillage/datasets/human/cage/fantom/CNhs12177/summary/coverage.w5,384,1,sum,"CD19+ B Cells (pluriselect), , donation1",immune cell,No
+5084,0,CNhs12178,/home/drk/tillage/datasets/human/cage/fantom/CNhs12178/summary/coverage.w5,384,1,sum,"CD8+ T Cells (pluriselect), , donation2",immune cell,No
+5085,0,CNhs12187,/home/drk/tillage/datasets/human/cage/fantom/CNhs12180/summary/coverage.w5,384,1,sum,"CD8+ T Cells (pluriselect), , donation3",immune cell,No
+5086,0,CNhs12181,/home/drk/tillage/datasets/human/cage/fantom/CNhs12181/summary/coverage.w5,384,1,sum,"CD19+ B Cells (pluriselect), , donation3",immune cell,No
+5087,0,CNhs12191,/home/drk/tillage/datasets/human/cage/fantom/CNhs12191/summary/coverage.w5,384,1,sum,mesodermal tumor cell line:HIRS-BM,NA,Yes
+5088,0,CNhs12192,/home/drk/tillage/datasets/human/cage/fantom/CNhs12192/summary/coverage.w5,384,1,sum,leiomyosarcoma cell line:Hs 5.T,NA,Yes
+5089,0,CNhs12193,/home/drk/tillage/datasets/human/cage/fantom/CNhs12193/summary/coverage.w5,384,1,sum,non-small cell lung cancer cell line:NCI-H1385,lung,Yes
+5090,0,CNhs13227,/home/drk/tillage/datasets/human/cage/fantom/CNhs12205/summary/coverage.w5,384,1,sum,"CD34+ Progenitors,",NA,No
+5091,0,CNhs14222,/home/drk/tillage/datasets/human/cage/fantom/CNhs12227/summary/coverage.w5,384,1,sum,"spinal cord, adult,",brain,No
+5092,0,CNhs14230,/home/drk/tillage/datasets/human/cage/fantom/CNhs12228/summary/coverage.w5,384,1,sum,"pineal gland, adult,",brain,No
+5093,0,CNhs14231,/home/drk/tillage/datasets/human/cage/fantom/CNhs12229/summary/coverage.w5,384,1,sum,"pituitary gland, adult,",pituitary,No
+5094,0,CNhs12310,/home/drk/tillage/datasets/human/cage/fantom/CNhs12310/summary/coverage.w5,384,1,sum,"medial frontal gyrus, adult,",brain,No
+5095,0,CNhs12311,/home/drk/tillage/datasets/human/cage/fantom/CNhs12311/summary/coverage.w5,384,1,sum,"amygdala, adult,",brain,No
+5096,0,CNhs12312,/home/drk/tillage/datasets/human/cage/fantom/CNhs12312/summary/coverage.w5,384,1,sum,"hippocampus, adult,",brain,No
+5097,0,CNhs12314,/home/drk/tillage/datasets/human/cage/fantom/CNhs12314/summary/coverage.w5,384,1,sum,"thalamus, adult,",brain,No
+5098,0,CNhs12315,/home/drk/tillage/datasets/human/cage/fantom/CNhs12315/summary/coverage.w5,384,1,sum,"medulla oblongata, adult,",brain,No
+5099,0,CNhs12316,/home/drk/tillage/datasets/human/cage/fantom/CNhs12316/summary/coverage.w5,384,1,sum,"medial temporal gyrus, adult,",brain,No
+5100,0,CNhs12317,/home/drk/tillage/datasets/human/cage/fantom/CNhs12317/summary/coverage.w5,384,1,sum,"parietal lobe, adult,",brain,No
+5101,0,CNhs12318,/home/drk/tillage/datasets/human/cage/fantom/CNhs12318/summary/coverage.w5,384,1,sum,"substantia nigra, adult,",brain,No
+5102,0,CNhs12319,/home/drk/tillage/datasets/human/cage/fantom/CNhs12319/summary/coverage.w5,384,1,sum,"globus pallidus, adult,",brain,No
+5103,0,CNhs12320,/home/drk/tillage/datasets/human/cage/fantom/CNhs12320/summary/coverage.w5,384,1,sum,"occipital cortex, adult,",brain,No
+5104,0,CNhs12321,/home/drk/tillage/datasets/human/cage/fantom/CNhs12321/summary/coverage.w5,384,1,sum,"caudate nucleus, adult,",brain,No
+5105,0,CNhs14550,/home/drk/tillage/datasets/human/cage/fantom/CNhs12322/summary/coverage.w5,384,1,sum,"locus coeruleus, adult,",brain,No
+5106,0,CNhs12323,/home/drk/tillage/datasets/human/cage/fantom/CNhs12323/summary/coverage.w5,384,1,sum,"cerebellum, adult,",brain,No
+5107,0,CNhs13912,/home/drk/tillage/datasets/human/cage/fantom/CNhs12324/summary/coverage.w5,384,1,sum,"putamen, adult,",brain,No
+5108,0,CNhs12326,/home/drk/tillage/datasets/human/cage/fantom/CNhs12325/summary/coverage.w5,384,1,sum,"epitheloid carcinoma cell line: HelaS3 ENCODE, biol_",NA,Yes
+5109,0,CNhs12328,/home/drk/tillage/datasets/human/cage/fantom/CNhs12328/summary/coverage.w5,384,1,sum,"hepatocellular carcinoma cell line: HepG2 ENCODE, biol_",liver,Yes
+5110,0,CNhs12333,/home/drk/tillage/datasets/human/cage/fantom/CNhs12331/summary/coverage.w5,384,1,sum,"B lymphoblastoid cell line: GM12878 ENCODE, biol_",immune cell,Yes
+5111,0,CNhs12336,/home/drk/tillage/datasets/human/cage/fantom/CNhs12334/summary/coverage.w5,384,1,sum,"chronic myelogenous leukemia cell line:K562 ENCODE, biol_",bone,Yes
+5112,0,CNhs12338,/home/drk/tillage/datasets/human/cage/fantom/CNhs12338/summary/coverage.w5,384,1,sum,"Neurons,",brain,No
+5113,0,CNhs12347,/home/drk/tillage/datasets/human/cage/fantom/CNhs12339/summary/coverage.w5,384,1,sum,"Hair Follicle Outer Root Sheath Cells,",skin,No
+5114,0,CNhs12349,/home/drk/tillage/datasets/human/cage/fantom/CNhs12340/summary/coverage.w5,384,1,sum,"Hepatocyte,",liver,No
+5115,0,CNhs12341,/home/drk/tillage/datasets/human/cage/fantom/CNhs12341/summary/coverage.w5,384,1,sum,"Cardiac Myocyte,",heart,No
+5116,0,CNhs12342,/home/drk/tillage/datasets/human/cage/fantom/CNhs12342/summary/coverage.w5,384,1,sum,"Lens Epithelial Cells,",eye,No
+5117,0,CNhs12354,/home/drk/tillage/datasets/human/cage/fantom/CNhs12343/summary/coverage.w5,384,1,sum,"CD19+ B Cells,",immune cell,No
+5118,0,CNhs12570,/home/drk/tillage/datasets/human/cage/fantom/CNhs12346/summary/coverage.w5,384,1,sum,"Melanocyte - dark,",skin,No
+5119,0,CNhs12351,/home/drk/tillage/datasets/human/cage/fantom/CNhs12351/summary/coverage.w5,384,1,sum,testicular germ cell embryonal carcinoma cell line:NEC14,male rep.,Yes
+5120,0,CNhs12362,/home/drk/tillage/datasets/human/cage/fantom/CNhs12362/summary/coverage.w5,384,1,sum,testicular germ cell embryonal carcinoma cell line:NEC15,male rep.,Yes
+5121,0,CNhs12364,/home/drk/tillage/datasets/human/cage/fantom/CNhs12363/summary/coverage.w5,384,1,sum,"mesenchymal precursor cell - adipose,",adipose,No
+5122,0,CNhs13098,/home/drk/tillage/datasets/human/cage/fantom/CNhs12366/summary/coverage.w5,384,1,sum,"mesenchymal precursor cell - bone marrow,",bone,No
+5123,0,CNhs12369,/home/drk/tillage/datasets/human/cage/fantom/CNhs12368/summary/coverage.w5,384,1,sum,"mesenchymal precursor cell - cardiac,",heart,No
+5124,0,CNhs13094,/home/drk/tillage/datasets/human/cage/fantom/CNhs12372/summary/coverage.w5,384,1,sum,"mesenchymal precursor cell - ovarian cancer left ovary,",ovary,Yes
+5125,0,CNhs12373,/home/drk/tillage/datasets/human/cage/fantom/CNhs12373/summary/coverage.w5,384,1,sum,"mesenchymal precursor cell - ovarian cancer right ovary,",ovary,Yes
+5126,0,CNhs13097,/home/drk/tillage/datasets/human/cage/fantom/CNhs12374/summary/coverage.w5,384,1,sum,"mesenchymal precursor cell - ovarian cancer metastasis,",ovary,Yes
+5127,0,CNhs12377,/home/drk/tillage/datasets/human/cage/fantom/CNhs12377/summary/coverage.w5,384,1,sum,"mesenchymal precursor cell - ovarian cancer right ovary,  (SOC-57-02)",ovary,Yes
+5128,0,CNhs12502,/home/drk/tillage/datasets/human/cage/fantom/CNhs12379/summary/coverage.w5,384,1,sum,"amniotic membrane cells,",NA,No
+5129,0,CNhs12506,/home/drk/tillage/datasets/human/cage/fantom/CNhs12380/summary/coverage.w5,384,1,sum,"chorionic membrane cells,",placenta,No
+5130,0,CNhs12492,/home/drk/tillage/datasets/human/cage/fantom/CNhs12492/summary/coverage.w5,384,1,sum,"Mesenchymal stem cells - umbilical,",umbilical,No
+5131,0,CNhs12493,/home/drk/tillage/datasets/human/cage/fantom/CNhs12493/summary/coverage.w5,384,1,sum,"Fibroblast - Periodontal Ligament,  (PL29)",connective tissue,No
+5132,0,CNhs12518,/home/drk/tillage/datasets/human/cage/fantom/CNhs12518/summary/coverage.w5,384,1,sum,"common myeloid progenitor CMP,",bone,No
+5133,0,CNhs12519,/home/drk/tillage/datasets/human/cage/fantom/CNhs12519/summary/coverage.w5,384,1,sum,"granulocyte macrophage progenitor,",immune cell,No
+5134,0,CNhs12529,/home/drk/tillage/datasets/human/cage/fantom/CNhs12520/summary/coverage.w5,384,1,sum,"promyelocytes/myelocytes PMC,",immune cell,No
+5135,0,CNhs12530,/home/drk/tillage/datasets/human/cage/fantom/CNhs12522/summary/coverage.w5,384,1,sum,"neutrophil PMN,",immune cell,No
+5136,0,CNhs12538,/home/drk/tillage/datasets/human/cage/fantom/CNhs12538/summary/coverage.w5,384,1,sum,"Mallassez-derived cells,  (MZH3)",epithelium,No
+5137,0,CNhs12545,/home/drk/tillage/datasets/human/cage/fantom/CNhs12545/summary/coverage.w5,384,1,sum,"CD133+ stem cells - cord blood derived, pool1",NA,No
+5138,0,CNhs12546,/home/drk/tillage/datasets/human/cage/fantom/CNhs12546/summary/coverage.w5,384,1,sum,"Basophils,",epithelium,No
+5139,0,CNhs12549,/home/drk/tillage/datasets/human/cage/fantom/CNhs12547/summary/coverage.w5,384,1,sum,"Eosinophils,",immune cell,No
+5140,0,CNhs12552,/home/drk/tillage/datasets/human/cage/fantom/CNhs12552/summary/coverage.w5,384,1,sum,"CD133+ stem cells - adult bone marrow derived, pool1",bone,No
+5141,0,CNhs12553,/home/drk/tillage/datasets/human/cage/fantom/CNhs12553/summary/coverage.w5,384,1,sum,"CD34+ stem cells - adult bone marrow derived, , tech_",bone,No
+5142,0,CNhs12554,/home/drk/tillage/datasets/human/cage/fantom/CNhs12554/summary/coverage.w5,384,1,sum,"nasal epithelial cells, , tech_",pharynx,No
+5143,0,CNhs12562,/home/drk/tillage/datasets/human/cage/fantom/CNhs12558/summary/coverage.w5,384,1,sum,"mature adipocyte,",adipose,No
+5144,0,CNhs12566,/home/drk/tillage/datasets/human/cage/fantom/CNhs12566/summary/coverage.w5,384,1,sum,"Mast cell,",immune cell,No
+5145,0,CNhs13076,/home/drk/tillage/datasets/human/cage/fantom/CNhs12569/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Umbilical Vein,",umbilical,No
+5146,0,CNhs12574,/home/drk/tillage/datasets/human/cage/fantom/CNhs12574/summary/coverage.w5,384,1,sum,"nasal epithelial cells,",pharynx,No
+5147,0,CNhs12586,/home/drk/tillage/datasets/human/cage/fantom/CNhs12586/summary/coverage.w5,384,1,sum,"Oligodendrocyte - precursors,",brain,No
+5148,0,CNhs12590,/home/drk/tillage/datasets/human/cage/fantom/CNhs12587/summary/coverage.w5,384,1,sum,"Perineurial Cells,",connective tissue,No
+5149,0,CNhs12595,/home/drk/tillage/datasets/human/cage/fantom/CNhs12595/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Intestinal,",intestine,No
+5150,0,CNhs12596,/home/drk/tillage/datasets/human/cage/fantom/CNhs12596/summary/coverage.w5,384,1,sum,"Iris Pigment Epithelial Cells,",eye,No
+5151,0,CNhs12610,/home/drk/tillage/datasets/human/cage/fantom/CNhs12610/summary/coverage.w5,384,1,sum,"diencephalon, adult",brain,No
+5152,0,CNhs12611,/home/drk/tillage/datasets/human/cage/fantom/CNhs12611/summary/coverage.w5,384,1,sum,"olfactory region, adult",brain,No
+5153,0,CNhs12641,/home/drk/tillage/datasets/human/cage/fantom/CNhs12639/summary/coverage.w5,384,1,sum,"tenocyte,",connective tissue,No
+5154,0,CNhs12805,/home/drk/tillage/datasets/human/cage/fantom/CNhs12805/summary/coverage.w5,384,1,sum,medulloblastoma cell line:D283 Med,brain,Yes
+5155,0,CNhs12806,/home/drk/tillage/datasets/human/cage/fantom/CNhs12806/summary/coverage.w5,384,1,sum,large cell lung carcinoma cell line:NCI-H460,lung,Yes
+5156,0,CNhs12807,/home/drk/tillage/datasets/human/cage/fantom/CNhs12807/summary/coverage.w5,384,1,sum,plasma cell leukemia cell line:ARH-77,blood,Yes
+5157,0,CNhs12808,/home/drk/tillage/datasets/human/cage/fantom/CNhs12808/summary/coverage.w5,384,1,sum,small cell lung carcinoma cell line:DMS 144,lung,Yes
+5158,0,CNhs12809,/home/drk/tillage/datasets/human/cage/fantom/CNhs12809/summary/coverage.w5,384,1,sum,small cell lung carcinoma cell line:NCI-H82,lung,Yes
+5159,0,CNhs12811,/home/drk/tillage/datasets/human/cage/fantom/CNhs12810/summary/coverage.w5,384,1,sum,"salivary acinar cells,",pharynx,No
+5160,0,CNhs12838,/home/drk/tillage/datasets/human/cage/fantom/CNhs12838/summary/coverage.w5,384,1,sum,merkel cell carcinoma cell line:MKL-1,skin,Yes
+5161,0,CNhs12839,/home/drk/tillage/datasets/human/cage/fantom/CNhs12839/summary/coverage.w5,384,1,sum,merkel cell carcinoma cell line:MS-1,skin,Yes
+5162,0,CNhs12840,/home/drk/tillage/datasets/human/cage/fantom/CNhs12840/summary/coverage.w5,384,1,sum,"cerebral meninges, adult",brain,No
+5163,0,CNhs12842,/home/drk/tillage/datasets/human/cage/fantom/CNhs12842/summary/coverage.w5,384,1,sum,"appendix, adult",appendix,No
+5164,0,CNhs12843,/home/drk/tillage/datasets/human/cage/fantom/CNhs12843/summary/coverage.w5,384,1,sum,"artery, adult",blood vessel,No
+5165,0,CNhs12844,/home/drk/tillage/datasets/human/cage/fantom/CNhs12844/summary/coverage.w5,384,1,sum,"vein, adult",blood vessel,No
+5166,0,CNhs12845,/home/drk/tillage/datasets/human/cage/fantom/CNhs12845/summary/coverage.w5,384,1,sum,"bone marrow, adult",bone,No
+5167,0,CNhs12846,/home/drk/tillage/datasets/human/cage/fantom/CNhs12846/summary/coverage.w5,384,1,sum,"ductus deferens, adult",male rep.,No
+5168,0,CNhs12847,/home/drk/tillage/datasets/human/cage/fantom/CNhs12847/summary/coverage.w5,384,1,sum,"epididymis, adult",male rep.,No
+5169,0,CNhs12848,/home/drk/tillage/datasets/human/cage/fantom/CNhs12848/summary/coverage.w5,384,1,sum,"gall bladder, adult",bladder,No
+5170,0,CNhs12849,/home/drk/tillage/datasets/human/cage/fantom/CNhs12849/summary/coverage.w5,384,1,sum,"parotid gland, adult",pharynx,No
+5171,0,CNhs12850,/home/drk/tillage/datasets/human/cage/fantom/CNhs12850/summary/coverage.w5,384,1,sum,"penis, adult",male rep.,No
+5172,0,CNhs12851,/home/drk/tillage/datasets/human/cage/fantom/CNhs12851/summary/coverage.w5,384,1,sum,"seminal vesicle, adult",male rep.,No
+5173,0,CNhs12852,/home/drk/tillage/datasets/human/cage/fantom/CNhs12852/summary/coverage.w5,384,1,sum,"submaxillary gland, adult",pharynx,No
+5174,0,CNhs12853,/home/drk/tillage/datasets/human/cage/fantom/CNhs12853/summary/coverage.w5,384,1,sum,"tongue, adult",tongue,No
+5175,0,CNhs12854,/home/drk/tillage/datasets/human/cage/fantom/CNhs12854/summary/coverage.w5,384,1,sum,"vagina, adult",vagina,No
+5176,0,CNhs12855,/home/drk/tillage/datasets/human/cage/fantom/CNhs12855/summary/coverage.w5,384,1,sum,"heart - mitral valve, adult",heart,No
+5177,0,CNhs12856,/home/drk/tillage/datasets/human/cage/fantom/CNhs12856/summary/coverage.w5,384,1,sum,"heart - pulmonic valve, adult",heart,No
+5178,0,CNhs12857,/home/drk/tillage/datasets/human/cage/fantom/CNhs12857/summary/coverage.w5,384,1,sum,"heart - tricuspid valve, adult",heart,No
+5179,0,CNhs12858,/home/drk/tillage/datasets/human/cage/fantom/CNhs12858/summary/coverage.w5,384,1,sum,"throat, adult",pharynx,No
+5180,0,CNhs12893,/home/drk/tillage/datasets/human/cage/fantom/CNhs12893/summary/coverage.w5,384,1,sum,"Smooth Muscle Cells - Bladder,",bladder,No
+5181,0,CNhs12998,/home/drk/tillage/datasets/human/cage/fantom/CNhs12998/summary/coverage.w5,384,1,sum,"testis, adult, pool2",male rep.,No
+5182,0,CNhs13049,/home/drk/tillage/datasets/human/cage/fantom/CNhs13049/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M7) cell line:M-MOK,immune cell,Yes
+5183,0,CNhs13050,/home/drk/tillage/datasets/human/cage/fantom/CNhs13050/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M5) cell line:NOMO-1,immune cell,Yes
+5184,0,CNhs13051,/home/drk/tillage/datasets/human/cage/fantom/CNhs13051/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M5) cell line:P31/FUJ,immune cell,Yes
+5185,0,CNhs13052,/home/drk/tillage/datasets/human/cage/fantom/CNhs13052/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M2) cell line:Kasumi-6,immune cell,Yes
+5186,0,CNhs13053,/home/drk/tillage/datasets/human/cage/fantom/CNhs13053/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M0) cell line:KG-1,immune cell,Yes
+5187,0,CNhs13054,/home/drk/tillage/datasets/human/cage/fantom/CNhs13054/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M1) cell line:HYT-1,immune cell,Yes
+5188,0,CNhs13055,/home/drk/tillage/datasets/human/cage/fantom/CNhs13055/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M3) cell line:HL60,immune cell,Yes
+5189,0,CNhs13056,/home/drk/tillage/datasets/human/cage/fantom/CNhs13056/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M4eo) cell line:EoL-1,immune cell,Yes
+5190,0,CNhs13057,/home/drk/tillage/datasets/human/cage/fantom/CNhs13057/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M4eo) cell line:EoL-3,immune cell,Yes
+5191,0,CNhs13058,/home/drk/tillage/datasets/human/cage/fantom/CNhs13058/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M5) cell line:U-937 DE-4,immune cell,Yes
+5192,0,CNhs13059,/home/drk/tillage/datasets/human/cage/fantom/CNhs13059/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M6) cell line:EEB,immune cell,Yes
+5193,0,CNhs13060,/home/drk/tillage/datasets/human/cage/fantom/CNhs13060/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M6) cell line:F-36E,immune cell,Yes
+5194,0,CNhs13061,/home/drk/tillage/datasets/human/cage/fantom/CNhs13061/summary/coverage.w5,384,1,sum,mesothelioma cell line:NCI-H28,NA,Yes
+5195,0,CNhs13062,/home/drk/tillage/datasets/human/cage/fantom/CNhs13062/summary/coverage.w5,384,1,sum,mesothelioma cell line:NCI-H226,NA,Yes
+5196,0,CNhs13063,/home/drk/tillage/datasets/human/cage/fantom/CNhs13063/summary/coverage.w5,384,1,sum,mesothelioma cell line:NCI-H2052,NA,Yes
+5197,0,CNhs13064,/home/drk/tillage/datasets/human/cage/fantom/CNhs13064/summary/coverage.w5,384,1,sum,mesothelioma cell line:NCI-H2452,NA,Yes
+5198,0,CNhs14376,/home/drk/tillage/datasets/human/cage/fantom/CNhs13065/summary/coverage.w5,384,1,sum,"mesothelioma cell line:Mero-14, tech_",NA,Yes
+5199,0,CNhs13066,/home/drk/tillage/datasets/human/cage/fantom/CNhs13066/summary/coverage.w5,384,1,sum,mesothelioma cell line:Mero-25,NA,Yes
+5200,0,CNhs13067,/home/drk/tillage/datasets/human/cage/fantom/CNhs13067/summary/coverage.w5,384,1,sum,mesothelioma cell line:Mero-41,NA,Yes
+5201,0,CNhs13068,/home/drk/tillage/datasets/human/cage/fantom/CNhs13068/summary/coverage.w5,384,1,sum,mesothelioma cell line:Mero-48a,NA,Yes
+5202,0,CNhs13069,/home/drk/tillage/datasets/human/cage/fantom/CNhs13069/summary/coverage.w5,384,1,sum,mesothelioma cell line:Mero-82,NA,Yes
+5203,0,CNhs13070,/home/drk/tillage/datasets/human/cage/fantom/CNhs13070/summary/coverage.w5,384,1,sum,mesothelioma cell line:Mero-83,NA,Yes
+5204,0,CNhs13072,/home/drk/tillage/datasets/human/cage/fantom/CNhs13072/summary/coverage.w5,384,1,sum,mesothelioma cell line:Mero-84,NA,Yes
+5205,0,CNhs13073,/home/drk/tillage/datasets/human/cage/fantom/CNhs13073/summary/coverage.w5,384,1,sum,mesothelioma cell line:Mero-95,NA,Yes
+5206,0,CNhs13074,/home/drk/tillage/datasets/human/cage/fantom/CNhs13074/summary/coverage.w5,384,1,sum,mesothelioma cell line:No36,NA,Yes
+5207,0,CNhs13075,/home/drk/tillage/datasets/human/cage/fantom/CNhs13075/summary/coverage.w5,384,1,sum,mesothelioma cell line:ONE58,NA,Yes
+5208,0,CNhs13099,/home/drk/tillage/datasets/human/cage/fantom/CNhs13099/summary/coverage.w5,384,1,sum,"serous adenocarcinoma cell line:SK-OV-3-R, biol_",epithelium,Yes
+5209,0,CNhs13538,/home/drk/tillage/datasets/human/cage/fantom/CNhs13195/summary/coverage.w5,384,1,sum,"CD4+CD25+CD45RA- memory regulatory T cells,",immune cell,No
+5210,0,CNhs13813,/home/drk/tillage/datasets/human/cage/fantom/CNhs13202/summary/coverage.w5,384,1,sum,"CD4+CD25-CD45RA+ naive conventional T cells expanded,",immune cell,No
+5211,0,CNhs13918,/home/drk/tillage/datasets/human/cage/fantom/CNhs13203/summary/coverage.w5,384,1,sum,"CD4+CD25+CD45RA+ naive regulatory T cells expanded,",immune cell,No
+5212,0,CNhs13204,/home/drk/tillage/datasets/human/cage/fantom/CNhs13204/summary/coverage.w5,384,1,sum,"CD4+CD25+CD45RA- memory regulatory T cells expanded,",immune cell,No
+5213,0,CNhs13512,/home/drk/tillage/datasets/human/cage/fantom/CNhs13205/summary/coverage.w5,384,1,sum,"CD4+CD25-CD45RA+ naive conventional T cells,",immune cell,No
+5214,0,CNhs13207,/home/drk/tillage/datasets/human/cage/fantom/CNhs13207/summary/coverage.w5,384,1,sum,"CD14-CD16+ Monocytes,",immune cell,No
+5215,0,CNhs13208,/home/drk/tillage/datasets/human/cage/fantom/CNhs13208/summary/coverage.w5,384,1,sum,"CD14+CD16+ Monocytes,",immune cell,No
+5216,0,CNhs13921,/home/drk/tillage/datasets/human/cage/fantom/CNhs13215/summary/coverage.w5,384,1,sum,"CD4+CD25-CD45RA- memory conventional T cells expanded,",immune cell,No
+5217,0,CNhs13224,/home/drk/tillage/datasets/human/cage/fantom/CNhs13216/summary/coverage.w5,384,1,sum,"CD14+CD16- Monocytes,",immune cell,No
+5218,0,CNhs13513,/home/drk/tillage/datasets/human/cage/fantom/CNhs13235/summary/coverage.w5,384,1,sum,"CD4+CD25+CD45RA+ naive regulatory T cells,",immune cell,No
+5219,0,CNhs13239,/home/drk/tillage/datasets/human/cage/fantom/CNhs13237/summary/coverage.w5,384,1,sum,"CD4+CD25-CD45RA- memory conventional T cells,",immune cell,No
+5220,0,CNhs13241,/home/drk/tillage/datasets/human/cage/fantom/CNhs13241/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M0) cell line:Kasumi-3,immune cell,Yes
+5221,0,CNhs13435,/home/drk/tillage/datasets/human/cage/fantom/CNhs13435/summary/coverage.w5,384,1,sum,"achilles tendon,",connective tissue,No
+5222,0,CNhs13437,/home/drk/tillage/datasets/human/cage/fantom/CNhs13437/summary/coverage.w5,384,1,sum,"cerebrospinal fluid,",brain,No
+5223,0,CNhs13439,/home/drk/tillage/datasets/human/cage/fantom/CNhs13439/summary/coverage.w5,384,1,sum,"cruciate ligament,",cartilage,No
+5224,0,CNhs13440,/home/drk/tillage/datasets/human/cage/fantom/CNhs13440/summary/coverage.w5,384,1,sum,"eye - vitreous humor,",eye,No
+5225,0,CNhs13441,/home/drk/tillage/datasets/human/cage/fantom/CNhs13441/summary/coverage.w5,384,1,sum,"eye - muscle superior,",muscle,No
+5226,0,CNhs13442,/home/drk/tillage/datasets/human/cage/fantom/CNhs13442/summary/coverage.w5,384,1,sum,"eye - muscle lateral,",muscle,No
+5227,0,CNhs13443,/home/drk/tillage/datasets/human/cage/fantom/CNhs13443/summary/coverage.w5,384,1,sum,"eye - muscle medial,",muscle,No
+5228,0,CNhs13444,/home/drk/tillage/datasets/human/cage/fantom/CNhs13444/summary/coverage.w5,384,1,sum,"eye - muscle inferior rectus,",muscle,No
+5229,0,CNhs13445,/home/drk/tillage/datasets/human/cage/fantom/CNhs13445/summary/coverage.w5,384,1,sum,"Fingernail (including nail plate, eponychium and hyponychium),",NA,No
+5230,0,CNhs13449,/home/drk/tillage/datasets/human/cage/fantom/CNhs13449/summary/coverage.w5,384,1,sum,"optic nerve,",brain,No
+5231,0,CNhs13454,/home/drk/tillage/datasets/human/cage/fantom/CNhs13454/summary/coverage.w5,384,1,sum,"skeletal muscle - soleus muscle,",muscle,No
+5232,0,CNhs13458,/home/drk/tillage/datasets/human/cage/fantom/CNhs13458/summary/coverage.w5,384,1,sum,"Skin - palm,",skin,No
+5233,0,CNhs13460,/home/drk/tillage/datasets/human/cage/fantom/CNhs13460/summary/coverage.w5,384,1,sum,"tongue epidermis (fungiform papillae),",tongue,No
+5234,0,CNhs13464,/home/drk/tillage/datasets/human/cage/fantom/CNhs13464/summary/coverage.w5,384,1,sum,"Urethra,",bladder,No
+5235,0,CNhs13475,/home/drk/tillage/datasets/human/cage/fantom/CNhs13465/summary/coverage.w5,384,1,sum,"CD14+ monocytes - treated with BCG,",immune cell,No
+5236,0,CNhs13466,/home/drk/tillage/datasets/human/cage/fantom/CNhs13466/summary/coverage.w5,384,1,sum,"CD14+ monocytes - treated with IFN + N-hexane,",immune cell,No
+5237,0,CNhs13483,/home/drk/tillage/datasets/human/cage/fantom/CNhs13467/summary/coverage.w5,384,1,sum,"CD14+ monocytes - treated with Trehalose dimycolate (TDM),",immune cell,No
+5238,0,CNhs13484,/home/drk/tillage/datasets/human/cage/fantom/CNhs13468/summary/coverage.w5,384,1,sum,"CD14+ monocytes - mock treated,",immune cell,No
+5239,0,CNhs13532,/home/drk/tillage/datasets/human/cage/fantom/CNhs13469/summary/coverage.w5,384,1,sum,"CD14+ monocytes - treated with Group A streptococci,",immune cell,No
+5240,0,CNhs13533,/home/drk/tillage/datasets/human/cage/fantom/CNhs13470/summary/coverage.w5,384,1,sum,"CD14+ monocytes - treated with lipopolysaccharide,",immune cell,No
+5241,0,CNhs13493,/home/drk/tillage/datasets/human/cage/fantom/CNhs13471/summary/coverage.w5,384,1,sum,"CD14+ monocytes - treated with Salmonella,",immune cell,No
+5242,0,CNhs13487,/home/drk/tillage/datasets/human/cage/fantom/CNhs13472/summary/coverage.w5,384,1,sum,"CD14+ monocytes - treated with Cryptococcus,",immune cell,No
+5243,0,CNhs13488,/home/drk/tillage/datasets/human/cage/fantom/CNhs13473/summary/coverage.w5,384,1,sum,"CD14+ monocytes - treated with Candida,",immune cell,No
+5244,0,CNhs13495,/home/drk/tillage/datasets/human/cage/fantom/CNhs13474/summary/coverage.w5,384,1,sum,"CD14+ monocytes - treated with B-glucan,",immune cell,No
+5245,0,CNhs13496,/home/drk/tillage/datasets/human/cage/fantom/CNhs13477/summary/coverage.w5,384,1,sum,"Hep-2 cells treated with Streptococci strain 5448, biol_",epithelium,Yes
+5246,0,CNhs13498,/home/drk/tillage/datasets/human/cage/fantom/CNhs13478/summary/coverage.w5,384,1,sum,"Hep-2 cells treated with Streptococci strain JRS4, biol_",epithelium,Yes
+5247,0,CNhs13479,/home/drk/tillage/datasets/human/cage/fantom/CNhs13479/summary/coverage.w5,384,1,sum,"Hep-2 cells mock treated, biol_",epithelium,Yes
+5248,0,CNhs13480,/home/drk/tillage/datasets/human/cage/fantom/CNhs13480/summary/coverage.w5,384,1,sum,"immature langerhans cells,",endocrine,No
+5249,0,CNhs13502,/home/drk/tillage/datasets/human/cage/fantom/CNhs13502/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M2) cell line:Kasumi-1,immune cell,Yes
+5250,0,CNhs13503,/home/drk/tillage/datasets/human/cage/fantom/CNhs13503/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M4) cell line:FKH-1,immune cell,Yes
+5251,0,CNhs13504,/home/drk/tillage/datasets/human/cage/fantom/CNhs13504/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M4) cell line:HNT-34,immune cell,Yes
+5252,0,CNhs13505,/home/drk/tillage/datasets/human/cage/fantom/CNhs13505/summary/coverage.w5,384,1,sum,acute myeloid leukemia (FAB M6) cell line:F-36P,immune cell,Yes
+5253,0,CNhs13507,/home/drk/tillage/datasets/human/cage/fantom/CNhs13507/summary/coverage.w5,384,1,sum,"mesenchymal precursor cell - ovarian cancer right ovary,  (SOC-57-02-G)",ovary,Yes
+5254,0,CNhs13508,/home/drk/tillage/datasets/human/cage/fantom/CNhs13508/summary/coverage.w5,384,1,sum,"serous adenocarcinoma cell line:SK-OV-3-R after co-culture with SOC-57-02-G, biol_",epithelium,Yes
+5255,0,CNhs13547,/home/drk/tillage/datasets/human/cage/fantom/CNhs13535/summary/coverage.w5,384,1,sum,"migratory langerhans cells,",immune cell,No
+5256,0,CNhs13551,/home/drk/tillage/datasets/human/cage/fantom/CNhs13550/summary/coverage.w5,384,1,sum,"Mallassez-derived cells,",epithelium,No
+5257,0,CNhs13553,/home/drk/tillage/datasets/human/cage/fantom/CNhs13552/summary/coverage.w5,384,1,sum,"CD34 cells differentiated to erythrocyte lineage, biol_",immune cell,No
+5258,0,CNhs13793,/home/drk/tillage/datasets/human/cage/fantom/CNhs13793/summary/coverage.w5,384,1,sum,"amygdala - adult,",brain,No
+5259,0,CNhs13794,/home/drk/tillage/datasets/human/cage/fantom/CNhs13794/summary/coverage.w5,384,1,sum,"thalamus - adult,",brain,No
+5260,0,CNhs13795,/home/drk/tillage/datasets/human/cage/fantom/CNhs13795/summary/coverage.w5,384,1,sum,"hippocampus - adult,",brain,No
+5261,0,CNhs13796,/home/drk/tillage/datasets/human/cage/fantom/CNhs13796/summary/coverage.w5,384,1,sum,"medial frontal gyrus - adult,",brain,No
+5262,0,CNhs13797,/home/drk/tillage/datasets/human/cage/fantom/CNhs13797/summary/coverage.w5,384,1,sum,"parietal lobe - adult,",brain,No
+5263,0,CNhs13798,/home/drk/tillage/datasets/human/cage/fantom/CNhs13798/summary/coverage.w5,384,1,sum,"occipital cortex - adult,",brain,No
+5264,0,CNhs13799,/home/drk/tillage/datasets/human/cage/fantom/CNhs13799/summary/coverage.w5,384,1,sum,"cerebellum - adult,",brain,No
+5265,0,CNhs13800,/home/drk/tillage/datasets/human/cage/fantom/CNhs13800/summary/coverage.w5,384,1,sum,"medulla oblongata - adult,",brain,No
+5266,0,CNhs13801,/home/drk/tillage/datasets/human/cage/fantom/CNhs13801/summary/coverage.w5,384,1,sum,"globus pallidus - adult,",brain,No
+5267,0,CNhs13802,/home/drk/tillage/datasets/human/cage/fantom/CNhs13802/summary/coverage.w5,384,1,sum,"caudate nucleus - adult,",brain,No
+5268,0,CNhs13803,/home/drk/tillage/datasets/human/cage/fantom/CNhs13803/summary/coverage.w5,384,1,sum,"substantia nigra - adult,",brain,No
+5269,0,CNhs13804,/home/drk/tillage/datasets/human/cage/fantom/CNhs13804/summary/coverage.w5,384,1,sum,"pineal gland - adult,",brain,No
+5270,0,CNhs13805,/home/drk/tillage/datasets/human/cage/fantom/CNhs13805/summary/coverage.w5,384,1,sum,"pituitary gland - adult,",pituitary,No
+5271,0,CNhs13807,/home/drk/tillage/datasets/human/cage/fantom/CNhs13807/summary/coverage.w5,384,1,sum,"spinal cord - adult,",brain,No
+5272,0,CNhs13808,/home/drk/tillage/datasets/human/cage/fantom/CNhs13808/summary/coverage.w5,384,1,sum,"locus coeruleus - adult,",brain,No
+5273,0,CNhs13809,/home/drk/tillage/datasets/human/cage/fantom/CNhs13809/summary/coverage.w5,384,1,sum,"medial temporal gyrus - adult,",brain,No
+5274,0,CNhs13816,/home/drk/tillage/datasets/human/cage/fantom/CNhs13816/summary/coverage.w5,384,1,sum,"Olfactory epithelial cells,",pharynx,No
+5275,0,CNhs13915,/home/drk/tillage/datasets/human/cage/fantom/CNhs13914/summary/coverage.w5,384,1,sum,"gamma delta positive T cells,",immune cell,No
+5276,0,CNhs13924,/home/drk/tillage/datasets/human/cage/fantom/CNhs13924/summary/coverage.w5,384,1,sum,"Mast cell, expanded,",immune cell,No
+5277,0,CNhs13925,/home/drk/tillage/datasets/human/cage/fantom/CNhs13925/summary/coverage.w5,384,1,sum,"Mast cell, expanded and stimulated,",immune cell,No
+5278,0,CNhs13975,/home/drk/tillage/datasets/human/cage/fantom/CNhs13972/summary/coverage.w5,384,1,sum,"adipose,",adipose,No
+5279,0,CNhs14069,/home/drk/tillage/datasets/human/cage/fantom/CNhs14069/summary/coverage.w5,384,1,sum,"medial frontal gyrus, newborn,",brain,No
+5280,0,CNhs14070,/home/drk/tillage/datasets/human/cage/fantom/CNhs14070/summary/coverage.w5,384,1,sum,"medial temporal gyrus, newborn,",brain,No
+5281,0,CNhs14071,/home/drk/tillage/datasets/human/cage/fantom/CNhs14071/summary/coverage.w5,384,1,sum,"caudate nucleus, newborn,",brain,No
+5282,0,CNhs14073,/home/drk/tillage/datasets/human/cage/fantom/CNhs14073/summary/coverage.w5,384,1,sum,"occipital cortex, newborn,",brain,No
+5283,0,CNhs14074,/home/drk/tillage/datasets/human/cage/fantom/CNhs14074/summary/coverage.w5,384,1,sum,"parietal lobe, newborn,",brain,No
+5284,0,CNhs14075,/home/drk/tillage/datasets/human/cage/fantom/CNhs14075/summary/coverage.w5,384,1,sum,"cerebellum, newborn,",brain,No
+5285,0,CNhs14076,/home/drk/tillage/datasets/human/cage/fantom/CNhs14076/summary/coverage.w5,384,1,sum,"substantia nigra, newborn,",brain,No
+5286,0,CNhs14077,/home/drk/tillage/datasets/human/cage/fantom/CNhs14077/summary/coverage.w5,384,1,sum,"spinal cord, newborn,",brain,No
+5287,0,CNhs14078,/home/drk/tillage/datasets/human/cage/fantom/CNhs14078/summary/coverage.w5,384,1,sum,"amygdala, newborn,",brain,No
+5288,0,CNhs14079,/home/drk/tillage/datasets/human/cage/fantom/CNhs14079/summary/coverage.w5,384,1,sum,"medulla oblongata, newborn,",brain,No
+5289,0,CNhs14080,/home/drk/tillage/datasets/human/cage/fantom/CNhs14080/summary/coverage.w5,384,1,sum,"locus coeruleus, newborn,",brain,No
+5290,0,CNhs14081,/home/drk/tillage/datasets/human/cage/fantom/CNhs14081/summary/coverage.w5,384,1,sum,"hippocampus, newborn,",brain,No
+5291,0,CNhs14082,/home/drk/tillage/datasets/human/cage/fantom/CNhs14082/summary/coverage.w5,384,1,sum,"globus pallidus, newborn,",brain,No
+5292,0,CNhs14083,/home/drk/tillage/datasets/human/cage/fantom/CNhs14083/summary/coverage.w5,384,1,sum,"putamen, newborn,",brain,No
+5293,0,CNhs14084,/home/drk/tillage/datasets/human/cage/fantom/CNhs14084/summary/coverage.w5,384,1,sum,"thalamus, newborn,",brain,No
+5294,0,CNhs14130,/home/drk/tillage/datasets/human/cage/fantom/CNhs14128/summary/coverage.w5,384,1,sum,"Fibroblast - Gingival,  (aggressive periodontitis)",connective tissue,No
+5295,0,CNhs14131,/home/drk/tillage/datasets/human/cage/fantom/CNhs14129/summary/coverage.w5,384,1,sum,"Fibroblast - Gingival,  (control)",connective tissue,No
+5296,0,CNhs14132,/home/drk/tillage/datasets/human/cage/fantom/CNhs14132/summary/coverage.w5,384,1,sum,"Fibroblast - Gingival,  (chronic periodontitis)",connective tissue,No
+5297,0,CNhs14135,/home/drk/tillage/datasets/human/cage/fantom/CNhs14135/summary/coverage.w5,384,1,sum,"Fibroblast - Gingival,  (periodontitis)",connective tissue,No
+5298,0,CNhs14138,/home/drk/tillage/datasets/human/cage/fantom/CNhs14138/summary/coverage.w5,384,1,sum,bronchioalveolar carcinoma cell line:NCI-H650,lung,Yes
+5299,0,CNhs14139,/home/drk/tillage/datasets/human/cage/fantom/CNhs14139/summary/coverage.w5,384,1,sum,thymic carcinoma cell line:Ty-82,thymus,Yes
+5300,0,CNhs14140,/home/drk/tillage/datasets/human/cage/fantom/CNhs14140/summary/coverage.w5,384,1,sum,thyroid carcinoma cell line:KHM-5M,thyroid,Yes
+5301,0,CNhs14184,/home/drk/tillage/datasets/human/cage/fantom/CNhs14183/summary/coverage.w5,384,1,sum,"Smooth muscle cells - airway, asthmatic,",lung,No
+5302,0,CNhs14192,/home/drk/tillage/datasets/human/cage/fantom/CNhs14190/summary/coverage.w5,384,1,sum,"Smooth muscle cells - airway, control,",lung,No
+5303,0,CNhs14551,/home/drk/tillage/datasets/human/cage/fantom/CNhs14223/summary/coverage.w5,384,1,sum,"thalamus, adult, , tech_",brain,No
+5304,0,CNhs14618,/home/drk/tillage/datasets/human/cage/fantom/CNhs14225/summary/coverage.w5,384,1,sum,"putamen, adult, , tech_",brain,No
+5305,0,CNhs14226,/home/drk/tillage/datasets/human/cage/fantom/CNhs14226/summary/coverage.w5,384,1,sum,"parietal cortex, adult,",brain,No
+5306,0,CNhs14229,/home/drk/tillage/datasets/human/cage/fantom/CNhs14229/summary/coverage.w5,384,1,sum,"medial temporal gyrus, adult, , tech_",brain,No
+5307,0,CNhs14238,/home/drk/tillage/datasets/human/cage/fantom/CNhs14238/summary/coverage.w5,384,1,sum,squamous cell lung carcinoma cell line:LC-1F,lung,Yes
+5308,0,CNhs14239,/home/drk/tillage/datasets/human/cage/fantom/CNhs14239/summary/coverage.w5,384,1,sum,epithelioid sarcoma cell line:HS-ES-2R,epithelium,Yes
+5309,0,CNhs14240,/home/drk/tillage/datasets/human/cage/fantom/CNhs14240/summary/coverage.w5,384,1,sum,squamous cell lung carcinoma cell line:RERF-LC-AI,lung,Yes
+5310,0,CNhs14241,/home/drk/tillage/datasets/human/cage/fantom/CNhs14241/summary/coverage.w5,384,1,sum,gastric cancer cell line:GSS,stomach,Yes
+5311,0,CNhs14244,/home/drk/tillage/datasets/human/cage/fantom/CNhs14244/summary/coverage.w5,384,1,sum,carcinoid cell line:NCI-H727,NA,Yes
+5312,0,CNhs14245,/home/drk/tillage/datasets/human/cage/fantom/CNhs14245/summary/coverage.w5,384,1,sum,"lung adenocarcinoma, papillary cell line:NCI-H441",lung,Yes
