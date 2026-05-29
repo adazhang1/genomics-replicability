@@ -1,0 +1,5 @@
+This directory contains Basenji's data.  `Main.ipynb` also uses two data files here that describe Basenji data:
+* `sequences.bed` includes the chromosome and start/end indices of each sample in Basenji's data.  This file is cross-referenced with the gene TSS file (`gencode_protein_coding_transcripts.csv`) to extract gene-based mopdel performance.
+* `targets.txt` contains the description of each track predicted by Basenji and is used to extract CAGE tracks from raw ground truth and predicted data.
+
+The `./tfrecords/` would normally the `.tfr` files, which contain the train/val/test samples used by Basenji.  However, those files are not included here due to size and cost.  Information on downloading their data is available here: https://github.com/calico/basenji/tree/master/manuscripts/cross2020. That link points to https://console.cloud.google.com/storage/browser/basenji_barnyard/data for downloading the data.  For this analysis, only the human data is required.

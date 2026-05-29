@@ -1,0 +1,16 @@
+# Large model files
+*.h5
+*.data-*
+
+# Large data files
+*.pickle
+*.fa
+*.gtf
+*.csv
+
+# Jupyter checkpoints
+**/.ipynb_checkpoints/
+
+# Python cache
+**/__pycache__/
+*.pyc
