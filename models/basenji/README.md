@@ -1,3 +1,5 @@
+The top level github directory is available at https://github.com/adazhang1/genomics-replicability.
+
 This directory contains the released, pretrained Basenji model as well as code for retraining Basenji from scratch.  Basenji code was downloaded on Jan 31, 2025
 
 # Environment loading
@@ -17,7 +19,9 @@ Use `predict_test_set.py` to run a trained model on test data.  You must specify
 
 As stated above, Basenji's data are not included here due to size and cost.  See above on how to download Basenji's data.
 
-`predict_test_set.py` will save ground truth (`model_best_test_set_gt.pickle`) and predicted (`model_best_test_set_pred.pickle`) values to large .pickle files.  These files are used in the analysis done by `Main.ipynb` in the top level directory.  However, due to size (~74GB each), these files are not included here.  Please contact the authors if you would like to have access these files.
+The trained models and model check points, stored as .h5 files, are too large to host on github.  A more complete `./models/basenji` directory is available at Hugging Face: https://huggingface.co/adazhang1/genomics-replicability/tree/main/models/basenji.
+
+Note: `predict_test_set.py` will save ground truth (`model_best_test_set_gt.pickle`) and predicted (`model_best_test_set_pred.pickle`) values to large .pickle files.  These files are used in the analysis done by `Main.ipynb` in the top level directory.  However, due to size (~69GB each), these files are not included here.  Please contact the authors if you would like to have access these files.
 
 We have included three models in our analysis:
  * `./released_model` contains the pretrained model released by Basenji.

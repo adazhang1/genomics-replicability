@@ -1,3 +1,5 @@
+The top level github directory is available at https://github.com/adazhang1/genomics-replicability.
+
 This directory contains code for running the pretrained Enformer model on Basenji's data.  Code was built by referencing released code available at https://github.com/google-deepmind/deepmind-research/tree/master/enformer
 
 # Environment loading
@@ -9,4 +11,6 @@ Use `predict_test_set.py` to run Enformer on the test data.  You must specify th
 
 Note: Basenji's data are not included here due to size and cost.  Information on downloading their data is available here: https://github.com/calico/basenji/tree/master/manuscripts/cross2020. That link points to https://console.cloud.google.com/storage/browser/basenji_barnyard/data for downloading the data.  For this analysis, only the human data is required.
 
-`predict_test_set.py` will save ground truth (`model_best_test_set_gt.pickle`) and predicted (`model_best_test_set_pred.pickle`) values to large .pickle files.  These files are used in the analysis done by `Main.ipynb` in the top level directory.  However, due to size (~74GB each), these files are not included here.  Please contact the authors if you would like to have access these files.
+The `genome.fa` FASTA file, used in inference, is too large to host on github (3 GB).  This file is included in the more complete `./models/enformer` directory available at Hugging Face: https://huggingface.co/adazhang1/genomics-replicability/tree/main/models/enformer.
+
+`predict_test_set.py` will save ground truth (`model_best_test_set_gt.pickle`) and predicted (`model_best_test_set_pred.pickle`) values to large .pickle files.  These files are used in the analysis done by `Main.ipynb` in the top level directory.  However, due to size (~69GB each), these files are not included here.  Please contact the authors if you would like to have access these files.
