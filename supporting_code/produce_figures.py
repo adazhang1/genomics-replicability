@@ -605,7 +605,7 @@ def figure_5(pub_freq, gene_corr, model_colors, save_file=None):
 
 def figure_6(df, model_colors, save_file=None):
     plt.rcParams['text.usetex'] = False
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(6.4,3.2))
     sns.barplot(df,x='Correlation',y='Model',capsize=.4, ax=ax)
     plt.bar_label(ax.containers[0], fmt='%.3f', padding=5)
     plt.draw()
@@ -833,7 +833,7 @@ def figure_S4(ground_truth, OR_gene_idx, cancer_CAGE, N, save_file=None):
     ax1.axvline(OR_mean_cov,ls='--',color='red',label='OR genes')
     ax1.axvline(OR_cancer_mean_cov,ls='--',color='darkred',label='OR genes (cancer tracks only)')
     sns.histplot(random_cov,color='gray',label='Random sample',ax=ax1)
-    ax1.set_xlabel('Mean covariance across all pairs of 44 genes')
+    ax1.set_xlabel('Mean correlation across all pairs of 44 genes')
     ax1.legend(loc=(0.65,-0.45))
     
     ax2.axvline(np.mean(OR_mean_expression),ls='--',color='red',label='OR genes')
