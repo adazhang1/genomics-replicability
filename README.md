@@ -8,7 +8,7 @@ This directory contains all code necessary for generating analyses, results, and
 ## Supporting code and data
 `Main.ipynb` relies on supporting code in the `./supporting_code/` directory:
  * `helper_functions.py` contains many helper functions for processing data, generating synthetic data, running analyses, etc.  This set of functions helps improve readability and reduce redundancy in `Main.ipynb`.  These functions are also released so that other researchers can see exactly how each analysis was performed.
- * `produce_figures.py` contains the code to produce each of the 6 figures and 3 supplemental figures in the paper.  In general, most of the computation is done external to these functions, but the code to produce the actual figures has been released for completeness.
+ * `produce_figures.py` contains the code to produce each of the 6 figures and 4 supplemental figures in the paper.  In general, most of the computation is done external to these functions, but the code to produce the actual figures has been released for completeness.
  * `curlyBrace.py` assists with drawing the curly braces in figures 1 and 2.
 
 `Main.ipynb` also relies on three supporting data files in the `./supporting_data/` directory:
