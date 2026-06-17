@@ -3,7 +3,7 @@ The top level github directory is available at https://github.com/adazhang1/geno
 This directory contains the released, pretrained Basenji model as well as code for retraining Basenji from scratch.  Basenji code was downloaded on Jan 31, 2025
 
 # Environment loading
-`prespecified.yml` is the prespecified environment released by Basenji.  Their instructions for installation are available at https://github.com/calico/basenji/tree/master.  You can use `conda env create -f prespecified.yml` to build a conda environment from this file
+`prespecified.yml` is the prespecified environment released by Basenji.  Their instructions for installation are available at https://github.com/calico/basenji/tree/master.  You can use `conda env create -f prespecified.yml` to build a conda environment from this file.
 
 # Model retraining
 Use `basenji_train.py` to train Basenji models from scratch.  You must specify the parameters file and the directory containing the data.  For example,
