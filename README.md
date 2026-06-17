@@ -3,7 +3,7 @@ This directory contains all code necessary for generating analyses, results, and
  * Supporting Data: https://huggingface.co/datasets/adazhang1/genomics-replicability/tree/main/supporting_data
 
 # Main.ipynb overview
-`Main.ipynb` processes raw predictions from the models, performs all performance analysis referenced in the publication, and generates all figures.  `prespecified.yml` defines the environment used to run `Main.ipynb`.  You can use `conda env create -f prespecified.yml` to build a conda environment from this file.  You can use `conda env create -f prespecified.yml` to recreate this environment.
+`Main.ipynb` processes raw predictions from the models, performs all performance analysis referenced in the publication, and generates all figures.  `prespecified.yml` defines the environment used to run `Main.ipynb`.  You can use `conda env create -f prespecified.yml` to build a conda environment from this file.
 
 ## Supporting code and data
 `Main.ipynb` relies on supporting code in the `./supporting_code/` directory:
