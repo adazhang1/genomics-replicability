@@ -41,3 +41,26 @@ Note: Basenji's data are not included here due to size and cost.  Information on
 The trained models and model check points, stored as .h5 files, are too large to host on github.  A more complete model directory is available at Hugging Face: https://huggingface.co/adazhang1/genomics-replicability/tree/main.
 
 Additionally, `predict_test_set.py` script outputs inference results as large ground truth (`model_best_test_set_gt.pickle`) and predicted (`model_best_test_set_pred.pickle`) files, which are used in the analysis done by `Main.ipynb` in the top level directory.  However, these files are not included on github or Hugging Face due to size (~69GB each, two files per model for which inference was run).  Please contact the authors if you would like to have access these files.
+
+# Reproducing results
+
+Conda environments are provided for each part of the analysis.
+These are defined in the `prespecified.yml` files under the root directory (for the main analysis), the `GSEA_tissue_cancer_error/` subdirectory, and the model directories, `models/basenji/` and `models/enformer/`.
+
+To rerun the analysis, either install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html) (`miniconda` was used here) or [docker](https://docs.docker.com/engine/install/) (because the analysis depends on CUDA accelerated packages, if using docker the [NVIDIA Container Toolkit](https://docs.nvidia.com/datacenter/cloud-native/container-toolkit/latest/install-guide.html) must be set up for `docker`).
+
+The full analysis can be run using the provided `main.sh`.
+Before running set the environment variable `BASENJI_DATA_DIR` and, if using `docker`, `USE_DOCKER`.
+
+``` shell
+## Using conda
+BASENJI_DATA_DIR=basenji_data/ ./main.sh
+
+## Using docker
+BASENJI_DATA_DIR=basenji_data/ USE_DOCKER=true ./main.sh
+```
+
+## Docker
+
+A `Dockerfile` has been provided to build a `docker image` with all required tools and `conda` environments already created.
+The final image has not been hosted on a `docker image` host and will be built locally (by `main.sh` if `USE_DOCKER` is set to `true`).
