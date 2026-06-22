@@ -43,7 +43,9 @@ BASENJI_DATA_DIR="$(cd "$BASENJI_DATA_DIR" && pwd)"
 
 ## Build docker or conda environments
 if [ "$USE_DOCKER" = "true" ]; then
-    docker build . -t "${DOCKER_TAG}"
+    # NOTE: If docker image is outdated, this will need to be manually rebuilt.
+    docker image inspect "localhost/${DOCKER_TAG}:latest" >/dev/null 2>&1 ||
+        docker build . -t "${DOCKER_TAG}"
 else
     conda env create -f "$MAIN_PRESPECIFIED"
     conda env create -f "$BASENJI_PRESPECIFIED"
