@@ -52,9 +52,9 @@ echo "Finished; Summarizing results (See GSEA_tissue_cancer_error/explore_result
 # Note: Can replace `--to notebook` with `--to pdf` or `--to html` for outputs
 # that don't depend on a running jupyter instance.
 "${CMD_PREFIX[@]}" conda run -n "${GSEA_ENV}" jupyter nbconvert \
-		   --export \
-		   --to notebook \
-		   --inplace explore_results.ipynb
+    --export \
+    --to notebook \
+    --inplace explore_results.ipynb
 
 ## Train Basenji model
 cd "${ROOT_DIR}/models/basenji/" || exit
@@ -63,26 +63,26 @@ cd "${ROOT_DIR}/models/basenji/" || exit
 # fill those out.
 echo "Training Basenji..."
 "${CMD_PREFIX[@]}" conda run -n "${BASENJI_ENV}" python basenji_train.py \
-		   original/params.json "${BASENJI_DATA_DIR}"
+    original/params.json "${BASENJI_DATA_DIR}"
 
 ## Making predictions
 cd "${ROOT_DIR}/models/basenji" || exit
 
 echo "Making predictions with Basenji..."
-"{CMD_PREFIX[@]}" conda run -n "${BASENJI_ENV}" python predict_test_set.py \
-		  original "${BASENJI_DATA_DIR}"
+"${CMD_PREFIX[@]}" conda run -n "${BASENJI_ENV}" python predict_test_set.py \
+    original "${BASENJI_DATA_DIR}"
 
 cd "${ROOT_DIR}/models/enformer" || exit
 
 echo "Making predictions with Enformer..."
-"{CMD_PREFIX[@]}" conda run -n "${ENFORMER_ENV}" python \
-		  predict_test_set.py "${BASENJI_DATA_DIR}"
+"${CMD_PREFIX[@]}" conda run -n "${ENFORMER_ENV}" python \
+    predict_test_set.py "${BASENJI_DATA_DIR}"
 
 ## Performing top level analysis of results
 cd "${ROOT_DIR}" || exit
 
 echo "Performing main analysis..."
-"{CMD_PREFIX[@]}" conda run -n "${MAIN_ENV}" jupyter nbconvert \
-		  --export \
-		  --to notebook \
-		  --inplace Main.ipynb
+"${CMD_PREFIX[@]}" conda run -n "${MAIN_ENV}" jupyter nbconvert \
+    --export \
+    --to notebook \
+    --inplace Main.ipynb
