@@ -4,6 +4,12 @@
 # Run the full Genomics Replicability analysis
 #
 
+env_name() {
+    local fname="$1"
+
+    awk -F': *' '/^name:/ {print $2; exit}' "$fname"
+}
+
 USE_DOCKER=${USE_DOCKER:-false}
 DOCKER_TAG="genomics-replicability"
 ROOT_DIR="$(pwd)"
@@ -14,10 +20,15 @@ else
     CMD_PREFIX=()
 fi
 
-MAIN_ENV="performance_assessment"
-BASENJI_ENV="basenji"
-ENFORMER_ENV="enformer"
-GSEA_ENV="GSEA_tissue_cancer"
+MAIN_PRESPECIFIED="${ROOT_DIR}/prespecified.yml"
+BASENJI_PRESPECIFIED="${ROOT_DIR}/models/basenji/prespecified.yml"
+ENFORMER_PRESPECIFIED="${ROOT_DIR}/models/enformer/prespecified.yml"
+GSEA_PRESPECIFIED="${ROOT_DIR}/GSEA_tissue_cancer_error/prespecified.yml"
+
+MAIN_ENV="$(env_name "$MAIN_PRESPECIFIED")"
+BASENJI_ENV="$(env_name "$BASENJI_PRESPECIFIED")"
+ENFORMER_ENV="$(env_name "$ENFORMER_PRESPECIFIED")"
+GSEA_ENV="$(env_name "$GSEA_PRESPECIFIED")"
 
 if [ -z "$BASENJI_DATA_DIR" ]; then
     echo "Must set BASENJI_DATA_DIR environment variable"
@@ -32,10 +43,10 @@ BASENJI_DATA_DIR="$(cd "$BASENJI_DATA_DIR" && pwd)"
 if [ "$USE_DOCKER" = "true" ]; then
     docker build . -t "${DOCKER_TAG}"
 else
-    conda env create -f prespecified.yml
-    conda env create -f models/basenji/prespecified.yml
-    conda env create -f models/enformer/prespecified.yml
-    conda env create -f GSEA_tissue_cancer_error/prespecified.yml
+    conda env create -f "$MAIN_PRESPECIFIED"
+    conda env create -f "$BASENJI_PRESPECIFIED"
+    conda env create -f "$ENFORMER_PRESPECIFIED"
+    conda env create -f "$GSEA_PRESPECIFIED"
     conda clean -afy
 fi
 
