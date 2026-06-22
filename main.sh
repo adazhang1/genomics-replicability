@@ -10,15 +10,17 @@ env_name() {
     awk -F': *' '/^name:/ {print $2; exit}' "$fname"
 }
 
+run_cmd() {
+    if [ "$USE_DOCKER" = "true" ]; then
+        docker run --gpus=all -v "$(pwd):/home/app" -w /home/app "localhost/${DOCKER_TAG}:latest" "$@"
+    else
+        "$@"
+    fi
+}
+
 USE_DOCKER=${USE_DOCKER:-false}
 DOCKER_TAG="genomics-replicability"
 ROOT_DIR="$(pwd)"
-
-if [ "$USE_DOCKER" = "true" ]; then
-    CMD_PREFIX=(docker run --gpus=all -v "${ROOT_DIR}:/home/app" -w /home/app "localhost/${DOCKER_TAG}:latest")
-else
-    CMD_PREFIX=()
-fi
 
 MAIN_PRESPECIFIED="${ROOT_DIR}/prespecified.yml"
 BASENJI_PRESPECIFIED="${ROOT_DIR}/models/basenji/prespecified.yml"
@@ -54,15 +56,15 @@ fi
 cd "${ROOT_DIR}/GSEA_tissue_cancer_error" || exit
 
 echo "Starting Per Sample GSEA..."
-"${CMD_PREFIX[@]}" conda run -n "${GSEA_ENV}" Rscript scripts/01_per_sample_gsea.R
+run_cmd conda run -n "${GSEA_ENV}" Rscript scripts/01_per_sample_gsea.R
 
 echo "Starting differential GSEA"
-"${CMD_PREFIX[@]}" conda run -n "${GSEA_ENV}" Rscript scripts/02_differential_gsea.R
+run_cmd conda run -n "${GSEA_ENV}" Rscript scripts/02_differential_gsea.R
 
 echo "Finished; Summarizing results (See GSEA_tissue_cancer_error/explore_results.ipynb)"
 # Note: Can replace `--to notebook` with `--to pdf` or `--to html` for outputs
 # that don't depend on a running jupyter instance.
-"${CMD_PREFIX[@]}" conda run -n "${GSEA_ENV}" jupyter nbconvert \
+run_cmd conda run -n "${GSEA_ENV}" jupyter nbconvert \
     --export \
     --to notebook \
     --inplace explore_results.ipynb
@@ -73,27 +75,27 @@ cd "${ROOT_DIR}/models/basenji/" || exit
 # NOTE for Ada: I know there are other runs that need to be done if you can
 # fill those out.
 echo "Training Basenji..."
-"${CMD_PREFIX[@]}" conda run -n "${BASENJI_ENV}" python basenji_train.py \
+run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
     original/params.json "${BASENJI_DATA_DIR}"
 
 ## Making predictions
 cd "${ROOT_DIR}/models/basenji" || exit
 
 echo "Making predictions with Basenji..."
-"${CMD_PREFIX[@]}" conda run -n "${BASENJI_ENV}" python predict_test_set.py \
+run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
     original "${BASENJI_DATA_DIR}"
 
 cd "${ROOT_DIR}/models/enformer" || exit
 
 echo "Making predictions with Enformer..."
-"${CMD_PREFIX[@]}" conda run -n "${ENFORMER_ENV}" python \
+run_cmd conda run -n "${ENFORMER_ENV}" python \
     predict_test_set.py "${BASENJI_DATA_DIR}"
 
 ## Performing top level analysis of results
 cd "${ROOT_DIR}" || exit
 
 echo "Performing main analysis..."
-"${CMD_PREFIX[@]}" conda run -n "${MAIN_ENV}" jupyter nbconvert \
+run_cmd conda run -n "${MAIN_ENV}" jupyter nbconvert \
     --export \
     --to notebook \
     --inplace Main.ipynb
