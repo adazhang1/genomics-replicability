@@ -57,33 +57,17 @@ fi
 ## Train Basenji model
 cd "${ROOT_DIR}/models/basenji/" || exit
 
-# NOTE for Ada: I know there are other runs that need to be done if you can
-# fill those out.
 echo "Training Basenji with original parameter file..."
-run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
-    original/params.json "${BASENJI_DATA_DIR}" -o original/run_1
-
-run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
-    original/params.json "${BASENJI_DATA_DIR}" -o original/run_2
-
-run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
-    original/params.json "${BASENJI_DATA_DIR}" -o original/run_3
-    
-run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
-    original/params.json "${BASENJI_DATA_DIR}" -o original/run_4
+for i in {1..4}; do
+    run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
+        original/params.json "${BASENJI_DATA_DIR}" -o "original/run_$i"
+done
 
 echo "Training Basenji with modified parameter file to include augmentation..."
-run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
-    augmented/params.json "${BASENJI_DATA_DIR}" -o original/run_1
-
-run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
-    augmented/params.json "${BASENJI_DATA_DIR}" -o original/run_2
-
-run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
-    augmented/params.json "${BASENJI_DATA_DIR}" -o original/run_3
-    
-run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
-    augmented/params.json "${BASENJI_DATA_DIR}" -o original/run_4
+for i in {1..4}; do
+    run_cmd conda run -n "${BASENJI_ENV}" python basenji_train.py \
+        augmented/params.json "${BASENJI_DATA_DIR}" -o "original/run_$i"
+done
 
 ## Making predictions
 cd "${ROOT_DIR}/models/basenji" || exit
@@ -93,31 +77,17 @@ run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
     released_model "${BASENJI_DATA_DIR}"
 
 echo "Making predictions with re-trained Basenji models (original param file)..."
-run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
-    original/run_1 "${BASENJI_DATA_DIR}"
-    
-run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
-    original/run_2 "${BASENJI_DATA_DIR}"
-    
-run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
-    original/run_3 "${BASENJI_DATA_DIR}"
-    
-run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
-    original/run_4 "${BASENJI_DATA_DIR}"
+for i in {1..4}; do
+    run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
+        "original/run_$i" "${BASENJI_DATA_DIR}"
+done
 
 echo "Making predictions with re-trained Basenji models (modified param file for augmentation)..."
-run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
-    augmented/run_1 "${BASENJI_DATA_DIR}"
-    
-run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
-    augmented/run_2 "${BASENJI_DATA_DIR}"
-    
-run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
-    augmented/run_3 "${BASENJI_DATA_DIR}"
-    
-run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
-    augmented/run_4 "${BASENJI_DATA_DIR}"
-    
+for i in {1..4}; do
+    run_cmd conda run -n "${BASENJI_ENV}" python predict_test_set.py \
+        "augmented/run_$i" "${BASENJI_DATA_DIR}"
+done
+
 cd "${ROOT_DIR}/models/enformer" || exit
 
 echo "Making predictions with Enformer..."
