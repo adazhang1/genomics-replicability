@@ -1,0 +1,16 @@
+name: GSEA_tissue_cancer
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - notebook
+  - ipykernel
+
+  - r-base=4.5
+  - r-irkernel
+  - r-dplyr
+  - r-tidyr
+  - r-data.table
+  - r-openxlsx
+  - bioconductor-fgsea

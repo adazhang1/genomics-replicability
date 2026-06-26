@@ -11,8 +11,6 @@ Use `basenji_train.py` to train Basenji models from scratch.  You must specify t
 
 Note: Basenji's data are not included here due to size and cost.  Information on downloading their data is available here: https://github.com/calico/basenji/tree/master/manuscripts/cross2020. That link points to https://console.cloud.google.com/storage/browser/basenji_barnyard/data for downloading the data.  For this analysis, only the human data is required.
 
-`./original_all/params.json`
-
 # Model inference
 Use `predict_test_set.py` to run a trained model on test data.  You must specify the model directory, which should contain a `params.json` that defines the model architecture and a .h5 model file that contains the trained model weights.  You must also point to the directory containing the test data.  For example,
 `python predict_test_set.py ./released_model/ <BASENJI_DATA_DIR>`
