@@ -1,4 +1,3 @@
-#!/usr/bin/env python
 # Copyright 2017 Calico LLC
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
@@ -13,6 +12,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # =========================================================================
+#
+# Modifications copyright 2025 by Ada Zhang
+#
+# =========================================================================
+
 from __future__ import print_function
 from optparse import OptionParser
 
@@ -39,6 +43,26 @@ predict_test_set.py
 
 Output trained Basenji model predictions on test set
 """
+
+# =========================================================================
+# FastaStringExtractor and Enformer classes and the one_hot_encode function were
+# pulled from https://github.com/google-deepmind/deepmind-research/blob/master/enformer/enformer-usage.ipynb
+
+# Copyright 2021 DeepMind Technologies Limited
+
+# Licensed under the Apache License, Version 2.0 (the "License"); 
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#         https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# =========================================================================
+
 class FastaStringExtractor:
     
     def __init__(self, fasta_file):
@@ -94,6 +118,27 @@ class Enformer:
 
 def one_hot_encode(sequence):
     return kipoiseq.transforms.functional.one_hot_dna(sequence).astype(np.float32)
+
+# =========================================================================
+# augment_data and get_model_output were written by heavily referencing
+# augmentation code available here: https://github.com/calico/basenji/blob/master/basenji/layers.py
+#
+# Copyright 2019 Calico LLC
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     https://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+# 
+# Modifications copyright 2025 by Ada Zhang
+# =========================================================================
 
 def augment_data(seq):
     # stochastic reverse compliment
