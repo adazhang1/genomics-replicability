@@ -1,4 +1,4 @@
-This directory contains all code necessary for generating analyses, results, and figures from our publication.  It also includes code for running the pretrained Enformer and Basenji models on Basenji's data, as well as code for retraining Basenji models from scratch.  Some data and model files are too large to be hosted on github and are instead available at Hugging Face:
+This directory contains all code necessary for generating analyses, results, and figures from our publication.  It also includes code for running the pretrained Enformer and Basenji models on Basenji's data, as well as code for retraining Basenji models from scratch.  Code is archived on Zenodo: [![DOI](https://zenodo.org/badge/1252847272.svg)](https://doi.org/10.5281/zenodo.20950354). Some data and model files are too large to be hosted on github and are instead available at Hugging Face:
  * Models: https://huggingface.co/adazhang1/genomics-replicability/tree/dfe759a914e72cdb3b2290568486c6fbea206f12
  * Supporting Data: https://huggingface.co/datasets/adazhang1/genomics-replicability/tree/dfd8b0587ff2a261c3819c4af9bea0f882c02927/supporting_data
 
